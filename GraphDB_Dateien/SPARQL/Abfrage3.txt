@@ -1,0 +1,16 @@
+PREFIX nfl: <http://visualdataweb.org/nflOntology/>
+
+select ?city ?date ?hometeam ?visitingteam ?score where { 
+    ?match a nfl:Match .
+    ?match nfl:hasMatchLocation ?hasMatchLocation .
+    ?hasMatchLocation nfl:city ?city .
+    ?weather nfl:hasWeatherLocation ?hasMatchLocation .
+    ?weather nfl:temperature ?temperature .
+    ?weather nfl:hasWeatherDay ?hasDate .
+    ?match nfl:hasMatchDay ?hasDate .
+    ?hasDate nfl:date ?date .
+    ?match nfl:hometeam ?hometeam .
+    ?match nfl:visitingteam ?visitingteam .
+    ?match nfl:score ?score .
+    FILTER (?temperature < "0") .
+}

@@ -1,0 +1,257 @@
+temperature,precipitation,humidity,windspeed,city,date,attendance,score,hometeam,visitingteam
+20.2,0,64.39,22.3,Cleveland,2019-09-08,67431,56,Cleveland Browns,Tennessee Titans
+27.3,0,50.75,31.7,Cleveland,2019-09-22,67431,33,Cleveland Browns,Los Angeles Rams
+13.4,0,37.92,35.2,Cleveland,2019-10-13,67431,60,Cleveland Browns,Seattle Seahawks
+7.1,0,58.1,27.6,Cleveland,2019-11-10,67431,35,Cleveland Browns,Buffalo Bills
+0.6,0.01,61.17,27.6,Cleveland,2019-11-14,67431,28,Cleveland Browns,Pittsburgh Steelers
+4.2,0.18,73.21,38.6,Cleveland,2019-11-24,67431,65,Cleveland Browns,Miami Dolphins
+5.6,0,55.62,33.3,Cleveland,2019-12-08,67431,46,Cleveland Browns,Cincinnati Bengals
+6.5,0,50.43,25.8,Cleveland,2019-12-22,67431,46,Cleveland Browns,Baltimore Ravens
+19.9,0,67.6,8,Pittsburgh,2019-09-15,65063,54,Pittsburgh Steelers,Seattle Seahawks
+21.4,19.14,86.05,15.4,Pittsburgh,2019-09-30,57959,30,Pittsburgh Steelers,Cincinnati Bengals
+16.8,2.11,79.52,19.7,Pittsburgh,2019-10-06,64037,49,Pittsburgh Steelers,Baltimore Ravens
+12.2,0,73.24,11,Pittsburgh,2019-10-28,59244,41,Pittsburgh Steelers,Miami Dolphins
+4.9,0,57.34,21.1,Pittsburgh,2019-11-03,61115,50,Pittsburgh Steelers,Indianapolis Colts
+7.2,0,52.23,24.2,Pittsburgh,2019-11-10,63627,29,Pittsburgh Steelers,Los Angeles Rams
+5.1,12.03,89.15,21.1,Pittsburgh,2019-12-01,62157,33,Pittsburgh Steelers,Cleveland Browns
+0.6,0.03,76.75,25.3,Pittsburgh,2019-12-15,64694,27,Pittsburgh Steelers,Buffalo Bills
+29.8,0,77.59,17.5,New-Orleans,2019-09-09,73039,58,New Orleans Saints,Houston Texans
+28.4,0,76.8,23.4,New-Orleans,2019-09-29,73086,22,New Orleans Saints,Dallas Cowboys
+26.6,5.37,81.26,22.8,New-Orleans,2019-10-06,73029,55,New Orleans Saints,Tampa Bay Buccaneers
+16.2,0,81.74,11.7,New-Orleans,2019-10-27,73064,40,New Orleans Saints,Arizona Cardinals
+13.6,0,80.19,14,New-Orleans,2019-11-10,73283,35,New Orleans Saints,Atlanta Falcons
+11.2,0,70.06,12.7,New-Orleans,2019-11-24,73068,65,New Orleans Saints,Carolina Panthers
+16.3,0,76.08,8.5,New-Orleans,2019-12-08,73038,94,New Orleans Saints,San Francisco 49ers
+21.5,0,91.67,28.3,New-Orleans,2019-12-16,73053,41,New Orleans Saints,Indianapolis Colts
+27,0,53.43,15.6,Charlotte,2019-09-08,72005,57,Carolina Panthers,Los Angeles Rams
+28.9,0,61.4,13.6,Charlotte,2019-09-12,71101,34,Carolina Panthers,Tampa Bay Buccaneers
+20.2,0.74,66.01,13.9,Charlotte,2019-10-06,72762,61,Carolina Panthers,Jacksonville Jaguars
+8.8,0,53.18,18.7,Charlotte,2019-11-03,72540,50,Carolina Panthers,Tennessee Titans
+9,0,56.67,26.1,Charlotte,2019-11-17,73106,32,Carolina Panthers,Atlanta Falcons
+13.9,22.08,69.39,34.7,Charlotte,2019-12-01,71504,50,Carolina Panthers,Washington Redskins
+7.9,0,67.28,18.8,Charlotte,2019-12-15,72544,54,Carolina Panthers,Seattle Seahawks
+17.8,6.92,89.26,23.5,Charlotte,2019-12-29,72203,52,Carolina Panthers,New Orleans Saints
+26.4,0,67.45,15,Atlanta,2019-09-15,72443,44,Atlanta Falcons,Philadelphia Eagles
+26.9,3.87,67.99,9.2,Atlanta,2019-09-29,72108,34,Atlanta Falcons,Tennessee Titans
+16.9,0.79,84.03,18.5,Atlanta,2019-10-20,71856,47,Atlanta Falcons,Los Angeles Rams
+18,2.95,77.07,21.6,Atlanta,2019-10-27,71483,47,Atlanta Falcons,Seattle Seahawks
+8.2,0,67.27,25,Atlanta,2019-11-24,71463,57,Atlanta Falcons,Tampa Bay Buccaneers
+11,0,43.54,24.3,Atlanta,2019-11-28,71993,44,Atlanta Falcons,New Orleans Saints
+10.8,0,59.09,21.6,Atlanta,2019-12-08,70592,60,Atlanta Falcons,Carolina Panthers
+6.3,29.5,80.06,31.6,Atlanta,2019-12-22,70873,36,Atlanta Falcons,Jacksonville Jaguars
+13.9,4.14,81.89,17.5,Minneapolis,2019-09-08,66714,40,Minnesota Vikings,Atlanta Falcons
+17.3,0.27,74.8,19,Minneapolis,2019-09-22,66738,48,Minnesota Vikings,Oakland Raiders
+3.4,0.54,77.59,24.7,Minneapolis,2019-10-13,66837,58,Minnesota Vikings,Philadelphia Eagles
+3.4,0,60.04,21,Minneapolis,2019-10-24,66776,28,Minnesota Vikings,Washington Redskins
+2.4,1.47,79.82,22,Minneapolis,2019-11-17,66883,50,Minnesota Vikings,Denver Broncos
+1.4,0,76.44,24,Minneapolis,2019-12-08,66776,27,Minnesota Vikings,Detroit Lions
+-1,0,80.01,14.1,Minneapolis,2019-12-23,67157,33,Minnesota Vikings,Green Bay Packers
+2.4,11.7,89.87,24.1,Minneapolis,2019-12-29,66913,40,Minnesota Vikings,Chicago Bears
+18.8,0.11,87.1,15.6,Green-Bay,2019-09-15,78416,37,Green Bay Packers,Minnesota Vikings
+20.9,16.11,88.23,19.4,Green-Bay,2019-09-22,78078,43,Green Bay Packers,Denver Broncos
+14.6,0,63.11,25.6,Green-Bay,2019-09-26,77509,61,Green Bay Packers,Philadelphia Eagles
+4.6,0,73.5,21.9,Green-Bay,2019-10-14,76947,45,Green Bay Packers,Detroit Lions
+11.2,0,80.16,17.7,Green-Bay,2019-10-20,78160,66,Green Bay Packers,Oakland Raiders
+0.2,1.49,76.03,24.8,Green-Bay,2019-11-10,78090,40,Green Bay Packers,Carolina Panthers
+1.7,0,74.72,28.6,Green-Bay,2019-12-08,77296,35,Green Bay Packers,Washington Redskins
+-11.3,0,72.58,21.8,Green-Bay,2019-12-15,78266,34,Green Bay Packers,Chicago Bears
+18.9,3.51,84.8,19.2,Detroit,2019-09-15,60158,23,Detroit Lions,Los Angeles Chargers
+14.7,2.32,92.28,25.4,Detroit,2019-09-29,65188,64,Detroit Lions,Kansas City Chiefs
+12.5,0,77.11,5.2,Detroit,2019-10-20,60314,72,Detroit Lions,Minnesota Vikings
+12.1,13.86,83.12,39,Detroit,2019-10-27,58509,57,Detroit Lions,New York Giants
+-1,0,75.19,12.7,Detroit,2019-11-17,61801,62,Detroit Lions,Dallas Cowboys
+2.6,0.13,69.07,35.6,Detroit,2019-11-28,65412,44,Detroit Lions,Chicago Bears
+-0.8,0.79,72.42,25.9,Detroit,2019-12-15,56515,55,Detroit Lions,Tampa Bay Buccaneers
+5.8,23.39,95.25,23.3,Detroit,2019-12-29,62840,43,Detroit Lions,Green Bay Packers
+18.3,0,64.41,16.1,Chicago,2019-09-05,62435,13,Chicago Bears,Green Bay Packers
+17.9,18.16,91.53,22.1,Chicago,2019-09-29,62131,22,Chicago Bears,Minnesota Vikings
+12.6,0,80.34,16.7,Chicago,2019-10-20,62306,61,Chicago Bears,New Orleans Saints
+10.4,3.91,74.09,34.7,Chicago,2019-10-27,61632,33,Chicago Bears,Los Angeles Chargers
+4.9,0.16,70.5,20.1,Chicago,2019-11-10,61758,33,Chicago Bears,Detroit Lions
+5.3,0,70.84,19.6,Chicago,2019-11-24,61581,33,Chicago Bears,New York Giants
+3.1,0,72.1,17.9,Chicago,2019-12-05,61276,55,Chicago Bears,Dallas Cowboys
+5,0,66.51,20.9,Chicago,2019-12-22,62213,29,Chicago Bears,Kansas City Chiefs
+25.4,0,62.42,16.1,Landover,2019-09-15,75128,52,Washington Redskins,Dallas Cowboys
+27.2,0,55.88,21.4,Landover,2019-09-23,67327,46,Washington Redskins,Chicago Bears
+19.3,0,72.78,21.2,Landover,2019-10-06,76483,40,Washington Redskins,New England Patriots
+13,41.03,92.07,28.5,Landover,2019-10-20,61459,9,Washington Redskins,San Francisco 49ers
+4.2,0,54.92,23.4,Landover,2019-11-17,56426,51,Washington Redskins,New York Jets
+6.9,14.42,70.09,35.1,Landover,2019-11-24,57754,35,Washington Redskins,Detroit Lions
+7.4,0,56.63,24.1,Landover,2019-12-15,63246,64,Washington Redskins,Philadelphia Eagles
+1.2,0,73.93,14.6,Landover,2019-12-22,66083,76,Washington Redskins,New York Giants
+21.9,0,57.6,16.4,Philadelphia,2019-09-08,69696,59,Philadelphia Eagles,Washington Redskins
+23.7,0,68.91,17.1,Philadelphia,2019-09-22,69796,51,Philadelphia Eagles,Detroit Lions
+18.1,0.13,71.23,18.8,Philadelphia,2019-10-06,69796,37,Philadelphia Eagles,New York Jets
+7.3,0,53.2,25.3,Philadelphia,2019-11-03,69796,36,Philadelphia Eagles,Chicago Bears
+3,0,49.25,30.1,Philadelphia,2019-11-17,69796,27,Philadelphia Eagles,New England Patriots
+5.4,23.95,76.87,30.3,Philadelphia,2019-11-24,69796,26,Philadelphia Eagles,Seattle Seahawks
+7.8,32.76,90.43,29.5,Philadelphia,2019-12-09,69796,40,Philadelphia Eagles,New York Giants
+1,0,66.48,16.1,Philadelphia,2019-12-22,69796,26,Philadelphia Eagles,Dallas Cowboys
+20.9,0,61.17,13.3,East-Rutherford,2019-09-08,78523,33,New York Jets,Buffalo Bills
+23.3,0,64.47,14.6,East-Rutherford,2019-09-15,74569,42,New York Giants,Buffalo Bills
+22.4,0,66.82,8.5,East-Rutherford,2019-09-16,78523,26,New York Jets,Cleveland Browns
+23,0,54.66,17.8,East-Rutherford,2019-09-29,74149,27,New York Giants,Washington Redskins
+17.8,0.02,69.65,21.8,East-Rutherford,2019-10-06,75041,38,New York Giants,Minnesota Vikings
+15.3,0,62.44,15.4,East-Rutherford,2019-10-13,78523,46,New York Jets,Dallas Cowboys
+10.6,10.99,76.47,12.9,East-Rutherford,2019-10-20,73577,48,New York Giants,Arizona Cardinals
+14.3,0.45,68.28,15.8,East-Rutherford,2019-10-21,78523,33,New York Jets,New England Patriots
+8.3,0,51.91,19.5,East-Rutherford,2019-11-04,76107,55,New York Giants,Dallas Cowboys
+5.5,0,59.53,19.4,East-Rutherford,2019-11-10,78523,61,New York Jets,New York Giants
+5.1,20.66,93.22,26.7,East-Rutherford,2019-11-24,78523,37,New York Jets,Oakland Raiders
+-0.6,16.3,69.68,21.4,East-Rutherford,2019-12-01,75950,44,New York Giants,Green Bay Packers
+0.7,0,59.62,17.5,East-Rutherford,2019-12-08,78523,43,New York Jets,Miami Dolphins
+6.5,0,55.31,37.4,East-Rutherford,2019-12-15,72894,56,New York Giants,Miami Dolphins
+1,0,69.87,16.3,East-Rutherford,2019-12-22,78523,26,New York Jets,Pittsburgh Steelers
+3.3,4.9,72.27,11.1,East-Rutherford,2019-12-29,75029,51,New York Giants,Philadelphia Eagles
+30.5,0,43.39,22.7,Arlington,2019-09-08,90353,52,Dallas Cowboys,New York Giants
+29.1,0,58.83,24,Arlington,2019-09-22,90127,37,Dallas Cowboys,Miami Dolphins
+28.7,0,52.61,36.3,Arlington,2019-10-06,93024,58,Dallas Cowboys,Green Bay Packers
+21.7,5.42,67.5,32.7,Arlington,2019-10-20,91213,47,Dallas Cowboys,Philadelphia Eagles
+16,0,63.59,23,Arlington,2019-11-10,91188,52,Dallas Cowboys,Minnesota Vikings
+8.2,11.32,78.95,17.9,Arlington,2019-11-28,90445,41,Dallas Cowboys,Buffalo Bills
+14.6,0,68.51,23.3,Arlington,2019-12-15,90436,65,Dallas Cowboys,Los Angeles Rams
+9.3,0.54,67.45,26.5,Arlington,2019-12-29,90646,63,Dallas Cowboys,Washington Redskins
+22,0,62.38,19.1,Carson,2019-09-08,25363,54,Los Angeles Chargers,Indianapolis Colts
+23.9,0,63.96,16.8,Carson,2019-09-22,25349,47,Los Angeles Chargers,Houston Texans
+21,0,59.68,17.5,Carson,2019-10-06,25357,33,Los Angeles Chargers,Denver Broncos
+18.7,0,66.19,18.1,Carson,2019-10-13,25425,41,Los Angeles Chargers,Pittsburgh Steelers
+17.4,0,54.33,15.6,Carson,2019-11-03,25435,37,Los Angeles Chargers,Green Bay Packers
+22.9,0,24.01,14.1,Carson,2019-11-18,76252,41,Los Angeles Chargers,Kansas City Chiefs
+14.2,0,41.2,30.3,Carson,2019-12-15,25446,49,Los Angeles Chargers,Minnesota Vikings
+14.7,2.36,55.39,18.9,Carson,2019-12-22,25380,41,Los Angeles Chargers,Oakland Raiders
+29.7,0,71.82,21.9,Miami-Gardens,2019-09-08,65012,69,Miami Dolphins,Baltimore Ravens
+28.6,8.02,80.31,21.9,Miami-Gardens,2019-09-15,65513,43,Miami Dolphins,New England Patriots
+28.4,0.09,66.77,29.8,Miami-Gardens,2019-09-29,64278,40,Miami Dolphins,Los Angeles Chargers
+27.4,1.32,73.06,23.3,Miami-Gardens,2019-10-13,59808,33,Miami Dolphins,Washington Redskins
+26.1,6.04,80.52,27.6,Miami-Gardens,2019-11-03,59229,44,Miami Dolphins,New York Jets
+15.7,0,80.05,22.9,Miami-Gardens,2019-11-17,64187,57,Miami Dolphins,Buffalo Bills
+23.3,0,73.37,23.5,Miami-Gardens,2019-12-01,65545,68,Miami Dolphins,Philadelphia Eagles
+24,0,71.73,33.5,Miami-Gardens,2019-12-22,60968,73,Miami Dolphins,Cincinnati Bengals
+18.4,0,64.14,16.8,Foxborough,2019-09-08,65878,36,New England Patriots,Pittsburgh Steelers
+20.8,0,68.79,17.9,Foxborough,2019-09-22,65878,44,New England Patriots,New York Jets
+12.2,1.06,71.89,25.2,Foxborough,2019-10-10,65878,49,New England Patriots,New York Giants
+10.2,28.17,84.09,18.7,Foxborough,2019-10-27,65878,40,New England Patriots,Cleveland Browns
+5.1,33.44,83.11,30,Foxborough,2019-11-24,65878,22,New England Patriots,Dallas Cowboys
+-3.9,0,65.59,15.4,Foxborough,2019-12-08,65878,39,New England Patriots,Kansas City Chiefs
+-3.7,0,71.74,7.2,Foxborough,2019-12-21,65878,41,New England Patriots,Buffalo Bills
+2.1,1,63.82,11.5,Foxborough,2019-12-29,65878,51,New England Patriots,Miami Dolphins
+25.5,0,62.33,15,Baltimore,2019-09-15,70126,40,Baltimore Ravens,Arizona Cardinals
+25.3,0,69.97,18,Baltimore,2019-09-29,70686,65,Baltimore Ravens,Cleveland Browns
+14.9,0.37,59.6,15.9,Baltimore,2019-10-13,70051,40,Baltimore Ravens,Cincinnati Bengals
+7.4,0,56.45,23.1,Baltimore,2019-11-03,71157,57,Baltimore Ravens,New England Patriots
+4.5,0,52.96,23.1,Baltimore,2019-11-17,70731,48,Baltimore Ravens,Houston Texans
+5.4,14.8,81.2,25.3,Baltimore,2019-12-01,71029,37,Baltimore Ravens,San Francisco 49ers
+-0.1,0,52.14,15.4,Baltimore,2019-12-12,70545,63,Baltimore Ravens,New York Jets
+7.4,13.46,88.07,14,Baltimore,2019-12-29,70695,38,Baltimore Ravens,Pittsburgh Steelers
+21.3,0,69.43,8.7,Cincinnati,2019-09-15,50666,58,Cincinnati Bengals,San Francisco 49ers
+18.8,10.28,81.34,19.8,Cincinnati,2019-10-06,46012,49,Cincinnati Bengals,Arizona Cardinals
+16.2,0,76.18,10.6,Cincinnati,2019-10-20,42784,44,Cincinnati Bengals,Jacksonville Jaguars
+9.2,0.02,58.19,26.7,Cincinnati,2019-11-10,45918,62,Cincinnati Bengals,Baltimore Ravens
+3.9,1.82,81.26,23.4,Cincinnati,2019-11-24,47423,26,Cincinnati Bengals,Pittsburgh Steelers
+8,2.86,80.18,32.1,Cincinnati,2019-12-01,39804,28,Cincinnati Bengals,New York Jets
+1.5,2.34,72.85,21.4,Cincinnati,2019-12-15,57066,47,Cincinnati Bengals,New England Patriots
+13.8,22.8,92.19,14.5,Cincinnati,2019-12-29,47759,56,Cincinnati Bengals,Cleveland Browns
+23.7,0,67.87,34.8,Orchard-Park,2019-09-22,69448,38,Buffalo Bills,Cincinnati Bengals
+13.6,0,77.32,23.3,Orchard-Park,2019-09-29,70317,26,Buffalo Bills,New England Patriots
+10.8,0,71.05,12.1,Orchard-Park,2019-10-20,68340,52,Buffalo Bills,Miami Dolphins
+12.3,23.93,87.73,46.8,Orchard-Park,2019-10-27,69435,44,Buffalo Bills,Philadelphia Eagles
+2.5,2.26,73.04,35.2,Orchard-Park,2019-11-03,67685,33,Buffalo Bills,Washington Redskins
+3.7,0,75.58,33.4,Orchard-Park,2019-11-24,67338,23,Buffalo Bills,Denver Broncos
+2,0,62.54,32.5,Orchard-Park,2019-12-08,69134,41,Buffalo Bills,Baltimore Ravens
+2.6,9.13,86.07,20.7,Orchard-Park,2019-12-29,69016,19,Buffalo Bills,New York Jets
+18.7,0,73.61,36.2,Oakland,2019-09-09,52359,40,Oakland Raiders,Denver Broncos
+18.7,0,75.51,33.5,Oakland,2019-09-15,52748,38,Oakland Raiders,Kansas City Chiefs
+19.1,0,49.47,16.7,Oakland,2019-10-06,60463,45,Oakland Raiders,Chicago Bears
+14.3,0,46.86,15.1,Oakland,2019-11-03,53318,55,Oakland Raiders,Detroit Lions
+12,0,85.74,25.5,Oakland,2019-11-07,51954,50,Oakland Raiders,Los Angeles Chargers
+15.1,0,71.13,16.1,Oakland,2019-11-17,51921,27,Oakland Raiders,Cincinnati Bengals
+13.7,7.9,87.31,22,Oakland,2019-12-08,52760,63,Oakland Raiders,Tennessee Titans
+11,0,66.07,22.2,Oakland,2019-12-15,52788,36,Oakland Raiders,Jacksonville Jaguars
+22.3,51.12,81.52,25.9,Kansas-City,2019-09-22,73390,61,Kansas City Chiefs,Baltimore Ravens
+13,0,81.12,9.4,Kansas-City,2019-10-06,73352,32,Kansas City Chiefs,Indianapolis Colts
+11,0,55.67,20.4,Kansas-City,2019-10-13,73323,55,Kansas City Chiefs,Houston Texans
+9.1,0,73.57,18.4,Kansas-City,2019-10-27,73558,55,Kansas City Chiefs,Green Bay Packers
+10,0,44.92,26,Kansas-City,2019-11-03,73615,49,Kansas City Chiefs,Minnesota Vikings
+2,0,62.68,48.2,Kansas-City,2019-12-01,73548,49,Kansas City Chiefs,Oakland Raiders
+-3.8,2.49,76.91,18.3,Kansas-City,2019-12-15,73257,26,Kansas City Chiefs,Denver Broncos
+5.5,0.01,74.71,35.2,Kansas-City,2019-12-29,73680,52,Kansas City Chiefs,Los Angeles Chargers
+22.1,0,28.86,27.5,Denver,2019-09-15,76885,30,Denver Broncos,Chicago Bears
+21.8,0,31.38,50.4,Denver,2019-09-29,76219,50,Denver Broncos,Jacksonville Jaguars
+11.2,0,21.92,22,Denver,2019-10-13,75815,16,Denver Broncos,Tennessee Titans
+17.2,0,16.79,22.6,Denver,2019-10-17,76748,36,Denver Broncos,Kansas City Chiefs
+5.3,0,47.29,21.4,Denver,2019-11-03,76743,43,Denver Broncos,Cleveland Browns
+-5,0,60.13,17.5,Denver,2019-12-01,74638,43,Denver Broncos,Los Angeles Chargers
+8.7,0,18.41,20,Denver,2019-12-22,74115,44,Denver Broncos,Detroit Lions
+-7.3,0,62.04,14.1,Denver,2019-12-29,76334,31,Denver Broncos,Oakland Raiders
+27.2,0,58.21,12.3,Nashville,2019-09-15,62849,36,Tennessee Titans,Indianapolis Colts
+23.4,14.52,74.97,22.9,Nashville,2019-10-06,66910,21,Tennessee Titans,Buffalo Bills
+18.6,0,71.07,10.4,Nashville,2019-10-20,62431,43,Tennessee Titans,Los Angeles Chargers
+14.2,0.46,81.19,18.2,Nashville,2019-10-27,62073,50,Tennessee Titans,Tampa Bay Buccaneers
+11.1,1.77,47.39,24.1,Nashville,2019-11-10,68864,67,Tennessee Titans,Kansas City Chiefs
+6.8,0.23,66.7,16.3,Nashville,2019-11-24,60926,62,Tennessee Titans,Jacksonville Jaguars
+8.4,0.11,71.91,35.2,Nashville,2019-12-15,65265,45,Tennessee Titans,Houston Texans
+8.2,2.57,70.97,10.9,Nashville,2019-12-22,66756,66,Tennessee Titans,New Orleans Saints
+29,0,64.93,16.2,Jacksonville,2019-09-08,60157,66,Jacksonville Jaguars,Kansas City Chiefs
+25.5,8.23,65.61,31.3,Jacksonville,2019-09-19,58613,27,Jacksonville Jaguars,Tennessee Titans
+24,0,72.76,20.5,Jacksonville,2019-10-13,64341,19,Jacksonville Jaguars,New Orleans Saints
+25.8,0.16,84.89,18.4,Jacksonville,2019-10-27,57833,44,Jacksonville Jaguars,New York Jets
+17.6,0,63.22,23.1,Jacksonville,2019-11-03,84771,29,Jacksonville Jaguars,Houston Texans
+22.1,0,78.21,40.7,Jacksonville,2019-12-01,62633,39,Jacksonville Jaguars,Tampa Bay Buccaneers
+16.9,0.74,86.1,21.1,Jacksonville,2019-12-08,57866,55,Jacksonville Jaguars,Los Angeles Chargers
+21.5,6.34,90.5,16.2,Jacksonville,2019-12-29,58472,58,Jacksonville Jaguars,Indianapolis Colts
+24.9,0.12,56.18,33.1,Indianapolis,2019-09-22,60295,51,Indianapolis Colts,Atlanta Falcons
+23.2,4.74,79.93,17,Indianapolis,2019-09-29,62259,55,Indianapolis Colts,Oakland Raiders
+15.5,0,68.38,7.5,Indianapolis,2019-10-20,59977,53,Indianapolis Colts,Houston Texans
+11.8,0.13,73.43,42.4,Indianapolis,2019-10-27,61653,28,Indianapolis Colts,Denver Broncos
+9,0,66.35,20.2,Indianapolis,2019-11-10,60510,28,Indianapolis Colts,Miami Dolphins
+1.5,0,75.09,12.2,Indianapolis,2019-11-17,61986,46,Indianapolis Colts,Jacksonville Jaguars
+4.7,9.01,88.51,26.7,Indianapolis,2019-12-01,60361,48,Indianapolis Colts,Tennessee Titans
+2,0,76.39,9.1,Indianapolis,2019-12-22,61845,44,Indianapolis Colts,Carolina Panthers
+29.6,0.7,61.27,21.7,Houston,2019-09-15,71651,25,Houston Texans,Jacksonville Jaguars
+29.1,0,71.39,13,Houston,2019-09-29,71699,26,Houston Texans,Carolina Panthers
+28.5,0,67.8,13.9,Houston,2019-10-06,71787,85,Houston Texans,Atlanta Falcons
+19.1,0,66.1,8.8,Houston,2019-10-27,71893,51,Houston Texans,Oakland Raiders
+23.6,0,77,25.3,Houston,2019-11-21,71727,37,Houston Texans,Indianapolis Colts
+16.3,0.6,30.43,26.1,Houston,2019-12-01,72025,50,Houston Texans,New England Patriots
+17.5,0,81.26,16.4,Houston,2019-12-08,71769,62,Houston Texans,Denver Broncos
+17.9,13.63,70.5,24.4,Houston,2019-12-29,71794,49,Houston Texans,Tennessee Titans
+20.5,0,60,27.5,Santa-Clara,2019-09-22,69439,44,San Francisco 49ers,Pittsburgh Steelers
+21.4,0,44.66,20.4,Santa-Clara,2019-10-07,70585,34,San Francisco 49ers,Cleveland Browns
+16.7,0,36.08,42.4,Santa-Clara,2019-10-27,69083,64,San Francisco 49ers,Carolina Panthers
+16.1,0,62.37,11.2,Santa-Clara,2019-11-11,71404,51,San Francisco 49ers,Seattle Seahawks
+15.6,0,67.19,11.1,Santa-Clara,2019-11-17,69419,62,San Francisco 49ers,Arizona Cardinals
+12.5,0,59.75,22.2,Santa-Clara,2019-11-24,71500,45,San Francisco 49ers,Green Bay Packers
+9.9,0,73.5,20.5,Santa-Clara,2019-12-15,70910,51,San Francisco 49ers,Atlanta Falcons
+11.6,0,77.11,25.6,Santa-Clara,2019-12-21,70103,65,San Francisco 49ers,Los Angeles Rams
+23.4,0,72.98,21,Los-Angeles,2019-09-15,71460,36,Los Angeles Rams,New Orleans Saints
+19.4,0,56.64,20.9,Los-Angeles,2019-09-29,68117,95,Los Angeles Rams,Tampa Bay Buccaneers
+19.1,0,63.29,12.1,Los-Angeles,2019-10-13,75695,27,Los Angeles Rams,San Francisco 49ers
+19.8,0,66.93,13.4,Los-Angeles,2019-10-27,83720,34,Los Angeles Rams,Cincinnati Bengals
+22.4,0,39.66,8.2,Los-Angeles,2019-11-17,70758,24,Los Angeles Rams,Chicago Bears
+15.9,0,57.36,11.6,Los-Angeles,2019-11-25,72409,51,Los Angeles Rams,Baltimore Ravens
+16.7,4.11,79.85,14.3,Los-Angeles,2019-12-08,71501,40,Los Angeles Rams,Seattle Seahawks
+12.3,0,65.52,8.2,Los-Angeles,2019-12-29,68665,55,Los Angeles Rams,Arizona Cardinals
+33.3,0,38.03,28.2,Glendale,2019-09-08,60687,54,Arizona Cardinals,Detroit Lions
+28.4,0,17.94,11.3,Glendale,2019-09-22,60104,58,Arizona Cardinals,Carolina Panthers
+26.6,0,45.43,18.4,Glendale,2019-09-29,60500,37,Arizona Cardinals,Seattle Seahawks
+23.8,0,25.3,11.1,Glendale,2019-10-13,60140,67,Arizona Cardinals,Atlanta Falcons
+15.2,0,10.15,20.3,Glendale,2019-10-31,60986,53,Arizona Cardinals,San Francisco 49ers
+11.4,0,53.59,10.2,Glendale,2019-12-01,60944,41,Arizona Cardinals,Los Angeles Rams
+14.2,2.36,92.25,10.5,Glendale,2019-12-08,63880,40,Arizona Cardinals,Pittsburgh Steelers
+12.7,0,57.09,30.3,Glendale,2019-12-15,63345,62,Arizona Cardinals,Cleveland Browns
+28.1,0,72.82,12.3,Tampa,2019-09-08,55976,48,Tampa Bay Buccaneers,San Francisco 49ers
+26.5,0,64.59,26.1,Tampa,2019-09-22,55070,63,Tampa Bay Buccaneers,New York Giants
+25.4,0,70.35,10.8,Tampa,2019-10-13,60087,63,Tampa Bay Buccaneers,Carolina Panthers
+19.5,0,70.27,14.4,Tampa,2019-11-10,40038,57,Tampa Bay Buccaneers,Arizona Cardinals
+11.5,0,85.12,13.3,Tampa,2019-11-17,54333,51,Tampa Bay Buccaneers,New Orleans Saints
+20.5,0,72.09,16.5,Tampa,2019-12-08,50232,73,Tampa Bay Buccaneers,Indianapolis Colts
+19.8,2.6,75.38,25.9,Tampa,2019-12-21,49036,43,Tampa Bay Buccaneers,Houston Texans
+23.4,4.52,85.7,22.8,Tampa,2019-12-29,50417,50,Tampa Bay Buccaneers,Atlanta Falcons
+17.8,0.22,78.77,15.5,Seattle,2019-09-08,68710,41,Seattle Seahawks,Cincinnati Bengals
+16.7,1.63,83.1,14.5,Seattle,2019-09-22,69005,60,Seattle Seahawks,New Orleans Saints
+13.2,0.44,67.72,19.5,Seattle,2019-10-03,68988,59,Seattle Seahawks,Los Angeles Rams
+9.8,1.66,82.18,15.8,Seattle,2019-10-20,69012,46,Seattle Seahawks,Baltimore Ravens
+7.9,0,78.73,12.4,Seattle,2019-11-03,68948,74,Seattle Seahawks,Tampa Bay Buccaneers
+6.7,0,74.99,6.5,Seattle,2019-12-02,69080,67,Seattle Seahawks,Minnesota Vikings
+6,0.82,87.25,11.2,Seattle,2019-12-22,69022,40,Seattle Seahawks,Arizona Cardinals
+7.4,0.07,77.6,8.8,Seattle,2019-12-29,69162,47,Seattle Seahawks,San Francisco 49ers

@@ -1,0 +1,1951 @@
+
+<http://visualdataweb.org/nflOntology/> a <http://www.w3.org/2002/07/owl#Ontology> .
+
+<http://visualdataweb.org/nflOntology/Day> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-01> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-02> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-03> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-04> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-05> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-06> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-07> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-08> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-09> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-10> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-11> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-12> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-13> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-14> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-15> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-16> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-17> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-18> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-19> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-20> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-21> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-22> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-23> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-24> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-25> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-26> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-27> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-28> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-29> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-30> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-01> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-02> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-03> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-04> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-05> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-06> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-07> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-08> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-09> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-10> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-11> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-12> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-13> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-14> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-15> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-16> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-17> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-18> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-19> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-20> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-21> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-22> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-23> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-24> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-25> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-26> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-27> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-28> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-29> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-30> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-31> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-01> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-02> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-03> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-04> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-05> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-06> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-07> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-08> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-09> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-10> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-11> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-12> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-13> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-14> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-15> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-16> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-17> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-18> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-19> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-20> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-21> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-22> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-23> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-24> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-25> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-26> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-27> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-28> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-29> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-30> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-01> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-02> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-03> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-04> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-05> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-06> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-07> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-08> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-09> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-10> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-11> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-12> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-13> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-14> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-15> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-16> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-17> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-18> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-19> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-20> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-21> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-22> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-23> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-24> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-25> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-26> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-27> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-28> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-29> a <http://visualdataweb.org/nflOntology/Day>,
+    <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-30> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-31> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Location> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://visualdataweb.org/nflOntology/Location/Atlanta> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Location/Charlotte> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Location/Cleveland> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Location/Green-Bay> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Location/Minneapolis> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Location/New-Orleans> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Location/Pittsburgh> a <http://visualdataweb.org/nflOntology/Location> .
+
+<http://visualdataweb.org/nflOntology/Match> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://visualdataweb.org/nflOntology/Weather> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://visualdataweb.org/nflOntology/Weather/1> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/10> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/100> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/101> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/102> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/103> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/104> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/105> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/106> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/107> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/108> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/109> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/11> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/110> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/111> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/112> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/113> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/114> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/115> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/116> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/117> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/118> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/119> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/12> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/120> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/121> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/122> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/123> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/124> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/125> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/126> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/127> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/128> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/129> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/13> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/130> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/131> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/132> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/133> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/134> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/135> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/136> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/137> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/138> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/139> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/14> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/140> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/141> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/142> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/143> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/144> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/145> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/146> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/147> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/148> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/149> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/15> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/150> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/151> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/152> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/153> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/154> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/155> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/156> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/157> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/158> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/159> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/16> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/160> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/161> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/162> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/163> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/164> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/165> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/166> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/167> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/168> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/169> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/17> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/170> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/171> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/172> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/173> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/174> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/175> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/176> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/177> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/178> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/179> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/18> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/180> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/181> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/182> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/183> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/184> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/185> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/186> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/187> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/188> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/189> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/19> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/190> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/191> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/192> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/193> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/194> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/195> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/196> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/197> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/198> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/199> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/2> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/20> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/200> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/201> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/202> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/203> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/204> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/205> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/206> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/207> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/208> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/209> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/21> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/210> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/211> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/212> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/213> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/214> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/215> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/216> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/217> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/218> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/219> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/22> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/220> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/221> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/222> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/223> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/224> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/225> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/226> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/227> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/228> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/229> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/23> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/230> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/231> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/232> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/233> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/234> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/235> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/236> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/237> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/238> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/239> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/24> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/240> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/241> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/242> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/243> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/244> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/245> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/246> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/247> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/248> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/249> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/25> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/250> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/251> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/252> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/253> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/254> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/255> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/256> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/257> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/258> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/259> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/26> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/260> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/261> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/262> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/263> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/264> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/265> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/266> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/267> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/268> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/269> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/27> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/270> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/271> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/272> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/273> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/274> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/275> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/276> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/277> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/278> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/279> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/28> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/280> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/281> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/282> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/283> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/284> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/285> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/286> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/287> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/288> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/289> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/29> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/290> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/291> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/292> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/293> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/294> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/295> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/296> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/297> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/298> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/299> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/3> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/30> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/300> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/301> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/302> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/303> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/304> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/305> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/306> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/307> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/308> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/309> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/31> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/310> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/311> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/312> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/313> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/314> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/315> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/316> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/317> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/318> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/319> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/32> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/320> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/321> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/322> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/323> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/324> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/325> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/326> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/327> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/328> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/329> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/33> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/330> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/331> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/332> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/333> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/334> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/335> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/336> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/337> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/338> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/339> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/34> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/340> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/341> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/342> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/343> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/344> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/345> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/346> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/347> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/348> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/349> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/35> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/350> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/351> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/352> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/353> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/354> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/355> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/356> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/357> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/358> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/359> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/36> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/360> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/361> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/362> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/363> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/364> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/365> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/366> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/367> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/368> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/369> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/37> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/370> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/371> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/372> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/373> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/374> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/375> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/376> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/377> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/378> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/379> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/38> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/380> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/381> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/382> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/383> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/384> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/385> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/386> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/387> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/388> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/389> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/39> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/390> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/391> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/392> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/393> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/394> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/395> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/396> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/397> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/398> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/399> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/4> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/40> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/400> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/401> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/402> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/403> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/404> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/405> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/406> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/407> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/408> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/409> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/41> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/410> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/411> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/412> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/413> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/414> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/415> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/416> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/417> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/418> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/419> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/42> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/420> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/421> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/422> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/423> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/424> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/425> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/426> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/427> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/428> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/429> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/43> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/430> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/431> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/432> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/433> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/434> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/435> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/436> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/437> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/438> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/439> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/44> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/440> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/441> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/442> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/443> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/444> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/445> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/446> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/447> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/448> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/449> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/45> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/450> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/451> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/452> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/453> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/454> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/455> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/456> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/457> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/458> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/459> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/46> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/460> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/461> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/462> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/463> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/464> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/465> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/466> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/467> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/468> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/469> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/47> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/470> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/471> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/472> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/473> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/474> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/475> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/476> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/477> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/478> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/479> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/48> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/480> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/481> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/482> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/483> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/484> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/485> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/486> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/487> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/488> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/489> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/49> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/490> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/491> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/492> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/493> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/494> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/495> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/496> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/497> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/498> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/499> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/5> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/50> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/500> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/501> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/502> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/503> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/504> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/505> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/506> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/507> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/508> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/509> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/51> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/510> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/511> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/512> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/513> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/514> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/515> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/516> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/517> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/518> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/519> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/52> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/520> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/521> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/522> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/523> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/524> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/525> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/526> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/527> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/528> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/529> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/53> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/530> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/531> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/532> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/533> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/534> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/535> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/536> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/537> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/538> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/539> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/54> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/540> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/541> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/542> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/543> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/544> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/545> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/546> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/547> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/548> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/549> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/55> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/550> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/551> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/552> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/553> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/554> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/555> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/556> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/557> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/558> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/559> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/56> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/560> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/561> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/562> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/563> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/564> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/565> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/566> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/567> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/568> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/569> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/57> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/570> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/571> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/572> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/573> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/574> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/575> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/576> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/577> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/578> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/579> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/58> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/580> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/581> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/582> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/583> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/584> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/585> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/586> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/587> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/588> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/589> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/59> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/590> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/591> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/592> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/593> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/594> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/595> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/596> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/597> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/598> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/599> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/6> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/60> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/600> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/601> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/602> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/603> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/604> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/605> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/606> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/607> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/608> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/609> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/61> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/610> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/611> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/612> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/613> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/614> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/615> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/616> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/617> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/618> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/619> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/62> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/620> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/621> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/622> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/623> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/624> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/625> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/626> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/627> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/628> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/629> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/63> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/630> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/631> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/632> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/633> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/634> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/635> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/636> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/637> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/638> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/639> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/64> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/640> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/641> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/642> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/643> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/644> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/645> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/646> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/647> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/648> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/649> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/65> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/650> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/651> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/652> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/653> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/654> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/655> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/656> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/657> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/658> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/659> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/66> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/660> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/661> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/662> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/663> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/664> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/665> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/666> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/667> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/668> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/669> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/67> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/670> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/671> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/672> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/673> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/674> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/675> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/676> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/677> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/678> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/679> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/68> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/680> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/681> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/682> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/683> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/684> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/685> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/686> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/687> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/688> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/689> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/69> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/690> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/691> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/692> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/693> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/694> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/695> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/696> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/697> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/698> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/699> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/7> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/70> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/700> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/701> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/702> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/703> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/704> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/705> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/706> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/707> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/708> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/709> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/71> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/710> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/711> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/712> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/713> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/714> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/715> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/716> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/717> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/718> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/719> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/72> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/720> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/721> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/722> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/723> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/724> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/725> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/726> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/727> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/728> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/729> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/73> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/730> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/731> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/732> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/733> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/734> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/735> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/736> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/737> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/738> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/739> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/74> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/740> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/741> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/742> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/743> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/744> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/745> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/746> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/747> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/748> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/749> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/75> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/750> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/751> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/752> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/753> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/754> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/755> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/756> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/757> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/758> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/759> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/76> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/760> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/761> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/762> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/763> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/764> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/765> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/766> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/767> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/768> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/769> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/77> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/770> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/771> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/772> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/773> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/774> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/775> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/776> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/777> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/778> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/779> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/78> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/780> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/781> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/782> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/783> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/784> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/785> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/786> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/787> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/788> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/789> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/79> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/790> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/791> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/792> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/793> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/794> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/795> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/796> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/797> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/798> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/799> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/8> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/80> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/800> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/801> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/802> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/803> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/804> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/805> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/806> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/807> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/81> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/82> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/83> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/84> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/85> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/86> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/87> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/88> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/89> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/9> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/90> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/91> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/92> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/93> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/94> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/95> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/96> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/97> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/98> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/Weather/99> a <http://visualdataweb.org/nflOntology/Weather> .
+
+<http://visualdataweb.org/nflOntology/attendance> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+
+<http://visualdataweb.org/nflOntology/city> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+
+<http://visualdataweb.org/nflOntology/date> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+
+<http://visualdataweb.org/nflOntology/hometeam> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+
+<http://visualdataweb.org/nflOntology/humidity> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+
+<http://visualdataweb.org/nflOntology/precipitation> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+
+<http://visualdataweb.org/nflOntology/score> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+
+<http://visualdataweb.org/nflOntology/temperature> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+
+<http://visualdataweb.org/nflOntology/visitingteam> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+
+<http://visualdataweb.org/nflOntology/windspeed> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .

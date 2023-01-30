@@ -1,0 +1,2399 @@
+@base <http://example.com/base/> .
+@prefix nfl: <http://visualdataweb.org/nflOntology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://visualdataweb.org/nflOntology/Match/1> a nfl:Match;
+  nfl:hometeam "Chicago Bears";
+  nfl:visitingteam "Green Bay Packers";
+  nfl:score "13";
+  nfl:attendance "62435";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Chicago>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-05> .
+
+<http://visualdataweb.org/nflOntology/Location/Chicago> a nfl:Location;
+  nfl:city "Chicago" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-05> a nfl:Day;
+  nfl:date "2019-09-05" .
+
+<http://visualdataweb.org/nflOntology/Match/2> a nfl:Match;
+  nfl:hometeam "Minnesota Vikings";
+  nfl:visitingteam "Atlanta Falcons";
+  nfl:score "40";
+  nfl:attendance "66714";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Minneapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Minneapolis> a nfl:Location;
+  nfl:city "Minneapolis" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-08> a nfl:Day;
+  nfl:date "2019-09-08" .
+
+<http://visualdataweb.org/nflOntology/Match/3> a nfl:Match;
+  nfl:hometeam "New York Jets";
+  nfl:visitingteam "Buffalo Bills";
+  nfl:score "33";
+  nfl:attendance "78523";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/East-Rutherford> a nfl:Location;
+  nfl:city "East-Rutherford" .
+
+<http://visualdataweb.org/nflOntology/Match/4> a nfl:Match;
+  nfl:hometeam "Philadelphia Eagles";
+  nfl:visitingteam "Washington Redskins";
+  nfl:score "59";
+  nfl:attendance "69696";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Philadelphia>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Philadelphia> a nfl:Location;
+  nfl:city "Philadelphia" .
+
+<http://visualdataweb.org/nflOntology/Match/5> a nfl:Match;
+  nfl:hometeam "Cleveland Browns";
+  nfl:visitingteam "Tennessee Titans";
+  nfl:score "56";
+  nfl:attendance "67431";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cleveland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Cleveland> a nfl:Location;
+  nfl:city "Cleveland" .
+
+<http://visualdataweb.org/nflOntology/Match/6> a nfl:Match;
+  nfl:hometeam "Carolina Panthers";
+  nfl:visitingteam "Los Angeles Rams";
+  nfl:score "57";
+  nfl:attendance "72005";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Charlotte>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Charlotte> a nfl:Location;
+  nfl:city "Charlotte" .
+
+<http://visualdataweb.org/nflOntology/Match/7> a nfl:Match;
+  nfl:hometeam "Jacksonville Jaguars";
+  nfl:visitingteam "Kansas City Chiefs";
+  nfl:score "66";
+  nfl:attendance "60157";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Jacksonville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Jacksonville> a nfl:Location;
+  nfl:city "Jacksonville" .
+
+<http://visualdataweb.org/nflOntology/Match/8> a nfl:Match;
+  nfl:hometeam "Miami Dolphins";
+  nfl:visitingteam "Baltimore Ravens";
+  nfl:score "69";
+  nfl:attendance "65012";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Miami-Gardens>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Miami-Gardens> a nfl:Location;
+  nfl:city "Miami-Gardens" .
+
+<http://visualdataweb.org/nflOntology/Match/9> a nfl:Match;
+  nfl:hometeam "Seattle Seahawks";
+  nfl:visitingteam "Cincinnati Bengals";
+  nfl:score "41";
+  nfl:attendance "68710";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Seattle>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Seattle> a nfl:Location;
+  nfl:city "Seattle" .
+
+<http://visualdataweb.org/nflOntology/Match/10> a nfl:Match;
+  nfl:hometeam "Los Angeles Chargers";
+  nfl:visitingteam "Indianapolis Colts";
+  nfl:score "54";
+  nfl:attendance "25363";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Carson>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Carson> a nfl:Location;
+  nfl:city "Carson" .
+
+<http://visualdataweb.org/nflOntology/Match/11> a nfl:Match;
+  nfl:hometeam "Arizona Cardinals";
+  nfl:visitingteam "Detroit Lions";
+  nfl:score "54";
+  nfl:attendance "60687";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Glendale>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Glendale> a nfl:Location;
+  nfl:city "Glendale" .
+
+<http://visualdataweb.org/nflOntology/Match/12> a nfl:Match;
+  nfl:hometeam "Dallas Cowboys";
+  nfl:visitingteam "New York Giants";
+  nfl:score "52";
+  nfl:attendance "90353";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Arlington>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Arlington> a nfl:Location;
+  nfl:city "Arlington" .
+
+<http://visualdataweb.org/nflOntology/Match/13> a nfl:Match;
+  nfl:hometeam "Tampa Bay Buccaneers";
+  nfl:visitingteam "San Francisco 49ers";
+  nfl:score "48";
+  nfl:attendance "55976";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Tampa>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Tampa> a nfl:Location;
+  nfl:city "Tampa" .
+
+<http://visualdataweb.org/nflOntology/Match/14> a nfl:Match;
+  nfl:hometeam "New England Patriots";
+  nfl:visitingteam "Pittsburgh Steelers";
+  nfl:score "36";
+  nfl:attendance "65878";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Foxborough>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-08> .
+
+<http://visualdataweb.org/nflOntology/Location/Foxborough> a nfl:Location;
+  nfl:city "Foxborough" .
+
+<http://visualdataweb.org/nflOntology/Match/15> a nfl:Match;
+  nfl:hometeam "New Orleans Saints";
+  nfl:visitingteam "Houston Texans";
+  nfl:score "58";
+  nfl:attendance "73039";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/New-Orleans>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-09> .
+
+<http://visualdataweb.org/nflOntology/Location/New-Orleans> a nfl:Location;
+  nfl:city "New-Orleans" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-09> a nfl:Day;
+  nfl:date "2019-09-09" .
+
+<http://visualdataweb.org/nflOntology/Match/16> a nfl:Match;
+  nfl:hometeam "Oakland Raiders";
+  nfl:visitingteam "Denver Broncos";
+  nfl:score "40";
+  nfl:attendance "52359";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Oakland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-09> .
+
+<http://visualdataweb.org/nflOntology/Location/Oakland> a nfl:Location;
+  nfl:city "Oakland" .
+
+<http://visualdataweb.org/nflOntology/Match/17> a nfl:Match;
+  nfl:hometeam "Carolina Panthers";
+  nfl:visitingteam "Tampa Bay Buccaneers";
+  nfl:score "34";
+  nfl:attendance "71101";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Charlotte>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-12> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-12> a nfl:Day;
+  nfl:date "2019-09-12" .
+
+<http://visualdataweb.org/nflOntology/Match/18> a nfl:Match;
+  nfl:hometeam "Baltimore Ravens";
+  nfl:visitingteam "Arizona Cardinals";
+  nfl:score "40";
+  nfl:attendance "70126";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Baltimore>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Location/Baltimore> a nfl:Location;
+  nfl:city "Baltimore" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-15> a nfl:Day;
+  nfl:date "2019-09-15" .
+
+<http://visualdataweb.org/nflOntology/Match/19> a nfl:Match;
+  nfl:hometeam "Washington Redskins";
+  nfl:visitingteam "Dallas Cowboys";
+  nfl:score "52";
+  nfl:attendance "75128";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Landover>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Location/Landover> a nfl:Location;
+  nfl:city "Landover" .
+
+<http://visualdataweb.org/nflOntology/Match/20> a nfl:Match;
+  nfl:hometeam "Pittsburgh Steelers";
+  nfl:visitingteam "Seattle Seahawks";
+  nfl:score "54";
+  nfl:attendance "65063";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Pittsburgh>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Location/Pittsburgh> a nfl:Location;
+  nfl:city "Pittsburgh" .
+
+<http://visualdataweb.org/nflOntology/Match/21> a nfl:Match;
+  nfl:hometeam "Green Bay Packers";
+  nfl:visitingteam "Minnesota Vikings";
+  nfl:score "37";
+  nfl:attendance "78416";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Green-Bay>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Location/Green-Bay> a nfl:Location;
+  nfl:city "Green-Bay" .
+
+<http://visualdataweb.org/nflOntology/Match/22> a nfl:Match;
+  nfl:hometeam "Houston Texans";
+  nfl:visitingteam "Jacksonville Jaguars";
+  nfl:score "25";
+  nfl:attendance "71651";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Houston>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Location/Houston> a nfl:Location;
+  nfl:city "Houston" .
+
+<http://visualdataweb.org/nflOntology/Match/23> a nfl:Match;
+  nfl:hometeam "Cincinnati Bengals";
+  nfl:visitingteam "San Francisco 49ers";
+  nfl:score "58";
+  nfl:attendance "50666";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cincinnati>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Location/Cincinnati> a nfl:Location;
+  nfl:city "Cincinnati" .
+
+<http://visualdataweb.org/nflOntology/Match/24> a nfl:Match;
+  nfl:hometeam "Tennessee Titans";
+  nfl:visitingteam "Indianapolis Colts";
+  nfl:score "36";
+  nfl:attendance "62849";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Nashville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Location/Nashville> a nfl:Location;
+  nfl:city "Nashville" .
+
+<http://visualdataweb.org/nflOntology/Match/25> a nfl:Match;
+  nfl:hometeam "Miami Dolphins";
+  nfl:visitingteam "New England Patriots";
+  nfl:score "43";
+  nfl:attendance "65513";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Miami-Gardens>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Match/26> a nfl:Match;
+  nfl:hometeam "New York Giants";
+  nfl:visitingteam "Buffalo Bills";
+  nfl:score "42";
+  nfl:attendance "74569";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Match/27> a nfl:Match;
+  nfl:hometeam "Detroit Lions";
+  nfl:visitingteam "Los Angeles Chargers";
+  nfl:score "23";
+  nfl:attendance "60158";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Detroit>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Location/Detroit> a nfl:Location;
+  nfl:city "Detroit" .
+
+<http://visualdataweb.org/nflOntology/Match/28> a nfl:Match;
+  nfl:hometeam "Oakland Raiders";
+  nfl:visitingteam "Kansas City Chiefs";
+  nfl:score "38";
+  nfl:attendance "52748";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Oakland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Match/29> a nfl:Match;
+  nfl:hometeam "Denver Broncos";
+  nfl:visitingteam "Chicago Bears";
+  nfl:score "30";
+  nfl:attendance "76885";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Denver>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Location/Denver> a nfl:Location;
+  nfl:city "Denver" .
+
+<http://visualdataweb.org/nflOntology/Match/30> a nfl:Match;
+  nfl:hometeam "Los Angeles Rams";
+  nfl:visitingteam "New Orleans Saints";
+  nfl:score "36";
+  nfl:attendance "71460";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Los-Angeles>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Location/Los-Angeles> a nfl:Location;
+  nfl:city "Los-Angeles" .
+
+<http://visualdataweb.org/nflOntology/Match/31> a nfl:Match;
+  nfl:hometeam "Atlanta Falcons";
+  nfl:visitingteam "Philadelphia Eagles";
+  nfl:score "44";
+  nfl:attendance "72443";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Atlanta>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-15> .
+
+<http://visualdataweb.org/nflOntology/Location/Atlanta> a nfl:Location;
+  nfl:city "Atlanta" .
+
+<http://visualdataweb.org/nflOntology/Match/32> a nfl:Match;
+  nfl:hometeam "New York Jets";
+  nfl:visitingteam "Cleveland Browns";
+  nfl:score "26";
+  nfl:attendance "78523";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-16> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-16> a nfl:Day;
+  nfl:date "2019-09-16" .
+
+<http://visualdataweb.org/nflOntology/Match/33> a nfl:Match;
+  nfl:hometeam "Jacksonville Jaguars";
+  nfl:visitingteam "Tennessee Titans";
+  nfl:score "27";
+  nfl:attendance "58613";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Jacksonville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-19> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-19> a nfl:Day;
+  nfl:date "2019-09-19" .
+
+<http://visualdataweb.org/nflOntology/Match/34> a nfl:Match;
+  nfl:hometeam "Indianapolis Colts";
+  nfl:visitingteam "Atlanta Falcons";
+  nfl:score "51";
+  nfl:attendance "60295";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Indianapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Location/Indianapolis> a nfl:Location;
+  nfl:city "Indianapolis" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-22> a nfl:Day;
+  nfl:date "2019-09-22" .
+
+<http://visualdataweb.org/nflOntology/Match/35> a nfl:Match;
+  nfl:hometeam "New England Patriots";
+  nfl:visitingteam "New York Jets";
+  nfl:score "44";
+  nfl:attendance "65878";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Foxborough>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Match/36> a nfl:Match;
+  nfl:hometeam "Buffalo Bills";
+  nfl:visitingteam "Cincinnati Bengals";
+  nfl:score "38";
+  nfl:attendance "69448";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Orchard-Park>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Location/Orchard-Park> a nfl:Location;
+  nfl:city "Orchard-Park" .
+
+<http://visualdataweb.org/nflOntology/Match/37> a nfl:Match;
+  nfl:hometeam "Green Bay Packers";
+  nfl:visitingteam "Denver Broncos";
+  nfl:score "43";
+  nfl:attendance "78078";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Green-Bay>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Match/38> a nfl:Match;
+  nfl:hometeam "Philadelphia Eagles";
+  nfl:visitingteam "Detroit Lions";
+  nfl:score "51";
+  nfl:attendance "69796";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Philadelphia>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Match/39> a nfl:Match;
+  nfl:hometeam "Kansas City Chiefs";
+  nfl:visitingteam "Baltimore Ravens";
+  nfl:score "61";
+  nfl:attendance "73390";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Kansas-City>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Location/Kansas-City> a nfl:Location;
+  nfl:city "Kansas-City" .
+
+<http://visualdataweb.org/nflOntology/Match/40> a nfl:Match;
+  nfl:hometeam "Minnesota Vikings";
+  nfl:visitingteam "Oakland Raiders";
+  nfl:score "48";
+  nfl:attendance "66738";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Minneapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Match/41> a nfl:Match;
+  nfl:hometeam "Dallas Cowboys";
+  nfl:visitingteam "Miami Dolphins";
+  nfl:score "37";
+  nfl:attendance "90127";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Arlington>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Match/42> a nfl:Match;
+  nfl:hometeam "Tampa Bay Buccaneers";
+  nfl:visitingteam "New York Giants";
+  nfl:score "63";
+  nfl:attendance "55070";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Tampa>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Match/43> a nfl:Match;
+  nfl:hometeam "Arizona Cardinals";
+  nfl:visitingteam "Carolina Panthers";
+  nfl:score "58";
+  nfl:attendance "60104";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Glendale>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Match/44> a nfl:Match;
+  nfl:hometeam "Seattle Seahawks";
+  nfl:visitingteam "New Orleans Saints";
+  nfl:score "60";
+  nfl:attendance "69005";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Seattle>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Match/45> a nfl:Match;
+  nfl:hometeam "San Francisco 49ers";
+  nfl:visitingteam "Pittsburgh Steelers";
+  nfl:score "44";
+  nfl:attendance "69439";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Santa-Clara>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Location/Santa-Clara> a nfl:Location;
+  nfl:city "Santa-Clara" .
+
+<http://visualdataweb.org/nflOntology/Match/46> a nfl:Match;
+  nfl:hometeam "Los Angeles Chargers";
+  nfl:visitingteam "Houston Texans";
+  nfl:score "47";
+  nfl:attendance "25349";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Carson>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Match/47> a nfl:Match;
+  nfl:hometeam "Cleveland Browns";
+  nfl:visitingteam "Los Angeles Rams";
+  nfl:score "33";
+  nfl:attendance "67431";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cleveland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-22> .
+
+<http://visualdataweb.org/nflOntology/Match/48> a nfl:Match;
+  nfl:hometeam "Washington Redskins";
+  nfl:visitingteam "Chicago Bears";
+  nfl:score "46";
+  nfl:attendance "67327";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Landover>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-23> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-23> a nfl:Day;
+  nfl:date "2019-09-23" .
+
+<http://visualdataweb.org/nflOntology/Match/49> a nfl:Match;
+  nfl:hometeam "Green Bay Packers";
+  nfl:visitingteam "Philadelphia Eagles";
+  nfl:score "61";
+  nfl:attendance "77509";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Green-Bay>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-26> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-26> a nfl:Day;
+  nfl:date "2019-09-26" .
+
+<http://visualdataweb.org/nflOntology/Match/50> a nfl:Match;
+  nfl:hometeam "New York Giants";
+  nfl:visitingteam "Washington Redskins";
+  nfl:score "27";
+  nfl:attendance "74149";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-29> a nfl:Day;
+  nfl:date "2019-09-29" .
+
+<http://visualdataweb.org/nflOntology/Match/51> a nfl:Match;
+  nfl:hometeam "Houston Texans";
+  nfl:visitingteam "Carolina Panthers";
+  nfl:score "26";
+  nfl:attendance "71699";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Houston>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/52> a nfl:Match;
+  nfl:hometeam "Atlanta Falcons";
+  nfl:visitingteam "Tennessee Titans";
+  nfl:score "34";
+  nfl:attendance "72108";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Atlanta>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/53> a nfl:Match;
+  nfl:hometeam "Buffalo Bills";
+  nfl:visitingteam "New England Patriots";
+  nfl:score "26";
+  nfl:attendance "70317";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Orchard-Park>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/54> a nfl:Match;
+  nfl:hometeam "Detroit Lions";
+  nfl:visitingteam "Kansas City Chiefs";
+  nfl:score "64";
+  nfl:attendance "65188";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Detroit>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/55> a nfl:Match;
+  nfl:hometeam "Baltimore Ravens";
+  nfl:visitingteam "Cleveland Browns";
+  nfl:score "65";
+  nfl:attendance "70686";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Baltimore>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/56> a nfl:Match;
+  nfl:hometeam "Indianapolis Colts";
+  nfl:visitingteam "Oakland Raiders";
+  nfl:score "55";
+  nfl:attendance "62259";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Indianapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/57> a nfl:Match;
+  nfl:hometeam "Miami Dolphins";
+  nfl:visitingteam "Los Angeles Chargers";
+  nfl:score "40";
+  nfl:attendance "64278";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Miami-Gardens>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/58> a nfl:Match;
+  nfl:hometeam "Los Angeles Rams";
+  nfl:visitingteam "Tampa Bay Buccaneers";
+  nfl:score "95";
+  nfl:attendance "68117";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Los-Angeles>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/59> a nfl:Match;
+  nfl:hometeam "Arizona Cardinals";
+  nfl:visitingteam "Seattle Seahawks";
+  nfl:score "37";
+  nfl:attendance "60500";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Glendale>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/60> a nfl:Match;
+  nfl:hometeam "Chicago Bears";
+  nfl:visitingteam "Minnesota Vikings";
+  nfl:score "22";
+  nfl:attendance "62131";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Chicago>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/61> a nfl:Match;
+  nfl:hometeam "Denver Broncos";
+  nfl:visitingteam "Jacksonville Jaguars";
+  nfl:score "50";
+  nfl:attendance "76219";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Denver>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/62> a nfl:Match;
+  nfl:hometeam "New Orleans Saints";
+  nfl:visitingteam "Dallas Cowboys";
+  nfl:score "22";
+  nfl:attendance "73086";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/New-Orleans>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-29> .
+
+<http://visualdataweb.org/nflOntology/Match/63> a nfl:Match;
+  nfl:hometeam "Pittsburgh Steelers";
+  nfl:visitingteam "Cincinnati Bengals";
+  nfl:score "30";
+  nfl:attendance "57959";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Pittsburgh>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-09-30> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-09-30> a nfl:Day;
+  nfl:date "2019-09-30" .
+
+<http://visualdataweb.org/nflOntology/Match/64> a nfl:Match;
+  nfl:hometeam "Seattle Seahawks";
+  nfl:visitingteam "Los Angeles Rams";
+  nfl:score "59";
+  nfl:attendance "68988";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Seattle>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-03> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-03> a nfl:Day;
+  nfl:date "2019-10-03" .
+
+<http://visualdataweb.org/nflOntology/Match/65> a nfl:Match;
+  nfl:hometeam "Philadelphia Eagles";
+  nfl:visitingteam "New York Jets";
+  nfl:score "37";
+  nfl:attendance "69796";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Philadelphia>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-06> a nfl:Day;
+  nfl:date "2019-10-06" .
+
+<http://visualdataweb.org/nflOntology/Match/66> a nfl:Match;
+  nfl:hometeam "New York Giants";
+  nfl:visitingteam "Minnesota Vikings";
+  nfl:score "38";
+  nfl:attendance "75041";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/67> a nfl:Match;
+  nfl:hometeam "Houston Texans";
+  nfl:visitingteam "Atlanta Falcons";
+  nfl:score "85";
+  nfl:attendance "71787";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Houston>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/68> a nfl:Match;
+  nfl:hometeam "Tennessee Titans";
+  nfl:visitingteam "Buffalo Bills";
+  nfl:score "21";
+  nfl:attendance "66910";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Nashville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/69> a nfl:Match;
+  nfl:hometeam "Pittsburgh Steelers";
+  nfl:visitingteam "Baltimore Ravens";
+  nfl:score "49";
+  nfl:attendance "64037";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Pittsburgh>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/70> a nfl:Match;
+  nfl:hometeam "Cincinnati Bengals";
+  nfl:visitingteam "Arizona Cardinals";
+  nfl:score "49";
+  nfl:attendance "46012";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cincinnati>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/71> a nfl:Match;
+  nfl:hometeam "New Orleans Saints";
+  nfl:visitingteam "Tampa Bay Buccaneers";
+  nfl:score "55";
+  nfl:attendance "73029";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/New-Orleans>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/72> a nfl:Match;
+  nfl:hometeam "Washington Redskins";
+  nfl:visitingteam "New England Patriots";
+  nfl:score "40";
+  nfl:attendance "76483";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Landover>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/73> a nfl:Match;
+  nfl:hometeam "Carolina Panthers";
+  nfl:visitingteam "Jacksonville Jaguars";
+  nfl:score "61";
+  nfl:attendance "72762";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Charlotte>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/74> a nfl:Match;
+  nfl:hometeam "Oakland Raiders";
+  nfl:visitingteam "Chicago Bears";
+  nfl:score "45";
+  nfl:attendance "60463";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Oakland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/75> a nfl:Match;
+  nfl:hometeam "Los Angeles Chargers";
+  nfl:visitingteam "Denver Broncos";
+  nfl:score "33";
+  nfl:attendance "25357";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Carson>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/76> a nfl:Match;
+  nfl:hometeam "Dallas Cowboys";
+  nfl:visitingteam "Green Bay Packers";
+  nfl:score "58";
+  nfl:attendance "93024";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Arlington>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/77> a nfl:Match;
+  nfl:hometeam "Kansas City Chiefs";
+  nfl:visitingteam "Indianapolis Colts";
+  nfl:score "32";
+  nfl:attendance "73352";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Kansas-City>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-06> .
+
+<http://visualdataweb.org/nflOntology/Match/78> a nfl:Match;
+  nfl:hometeam "San Francisco 49ers";
+  nfl:visitingteam "Cleveland Browns";
+  nfl:score "34";
+  nfl:attendance "70585";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Santa-Clara>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-07> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-07> a nfl:Day;
+  nfl:date "2019-10-07" .
+
+<http://visualdataweb.org/nflOntology/Match/79> a nfl:Match;
+  nfl:hometeam "New England Patriots";
+  nfl:visitingteam "New York Giants";
+  nfl:score "49";
+  nfl:attendance "65878";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Foxborough>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-10> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-10> a nfl:Day;
+  nfl:date "2019-10-10" .
+
+<http://visualdataweb.org/nflOntology/Match/80> a nfl:Match;
+  nfl:hometeam "Tampa Bay Buccaneers";
+  nfl:visitingteam "Carolina Panthers";
+  nfl:score "63";
+  nfl:attendance "60087";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Tampa>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-13> a nfl:Day;
+  nfl:date "2019-10-13" .
+
+<http://visualdataweb.org/nflOntology/Match/81> a nfl:Match;
+  nfl:hometeam "Miami Dolphins";
+  nfl:visitingteam "Washington Redskins";
+  nfl:score "33";
+  nfl:attendance "59808";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Miami-Gardens>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Match/82> a nfl:Match;
+  nfl:hometeam "Kansas City Chiefs";
+  nfl:visitingteam "Houston Texans";
+  nfl:score "55";
+  nfl:attendance "73323";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Kansas-City>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Match/83> a nfl:Match;
+  nfl:hometeam "Minnesota Vikings";
+  nfl:visitingteam "Philadelphia Eagles";
+  nfl:score "58";
+  nfl:attendance "66837";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Minneapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Match/84> a nfl:Match;
+  nfl:hometeam "Baltimore Ravens";
+  nfl:visitingteam "Cincinnati Bengals";
+  nfl:score "40";
+  nfl:attendance "70051";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Baltimore>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Match/85> a nfl:Match;
+  nfl:hometeam "Jacksonville Jaguars";
+  nfl:visitingteam "New Orleans Saints";
+  nfl:score "19";
+  nfl:attendance "64341";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Jacksonville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Match/86> a nfl:Match;
+  nfl:hometeam "Cleveland Browns";
+  nfl:visitingteam "Seattle Seahawks";
+  nfl:score "60";
+  nfl:attendance "67431";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cleveland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Match/87> a nfl:Match;
+  nfl:hometeam "Los Angeles Rams";
+  nfl:visitingteam "San Francisco 49ers";
+  nfl:score "27";
+  nfl:attendance "75695";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Los-Angeles>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Match/88> a nfl:Match;
+  nfl:hometeam "Arizona Cardinals";
+  nfl:visitingteam "Atlanta Falcons";
+  nfl:score "67";
+  nfl:attendance "60140";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Glendale>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Match/89> a nfl:Match;
+  nfl:hometeam "New York Jets";
+  nfl:visitingteam "Dallas Cowboys";
+  nfl:score "46";
+  nfl:attendance "78523";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Match/90> a nfl:Match;
+  nfl:hometeam "Denver Broncos";
+  nfl:visitingteam "Tennessee Titans";
+  nfl:score "16";
+  nfl:attendance "75815";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Denver>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Match/91> a nfl:Match;
+  nfl:hometeam "Los Angeles Chargers";
+  nfl:visitingteam "Pittsburgh Steelers";
+  nfl:score "41";
+  nfl:attendance "25425";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Carson>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-13> .
+
+<http://visualdataweb.org/nflOntology/Match/92> a nfl:Match;
+  nfl:hometeam "Green Bay Packers";
+  nfl:visitingteam "Detroit Lions";
+  nfl:score "45";
+  nfl:attendance "76947";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Green-Bay>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-14> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-14> a nfl:Day;
+  nfl:date "2019-10-14" .
+
+<http://visualdataweb.org/nflOntology/Match/93> a nfl:Match;
+  nfl:hometeam "Denver Broncos";
+  nfl:visitingteam "Kansas City Chiefs";
+  nfl:score "36";
+  nfl:attendance "76748";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Denver>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-17> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-17> a nfl:Day;
+  nfl:date "2019-10-17" .
+
+<http://visualdataweb.org/nflOntology/Match/94> a nfl:Match;
+  nfl:hometeam "Washington Redskins";
+  nfl:visitingteam "San Francisco 49ers";
+  nfl:score "9";
+  nfl:attendance "61459";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Landover>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-20> a nfl:Day;
+  nfl:date "2019-10-20" .
+
+<http://visualdataweb.org/nflOntology/Match/95> a nfl:Match;
+  nfl:hometeam "Buffalo Bills";
+  nfl:visitingteam "Miami Dolphins";
+  nfl:score "52";
+  nfl:attendance "68340";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Orchard-Park>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Match/96> a nfl:Match;
+  nfl:hometeam "Detroit Lions";
+  nfl:visitingteam "Minnesota Vikings";
+  nfl:score "72";
+  nfl:attendance "60314";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Detroit>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Match/97> a nfl:Match;
+  nfl:hometeam "Indianapolis Colts";
+  nfl:visitingteam "Houston Texans";
+  nfl:score "53";
+  nfl:attendance "59977";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Indianapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Match/98> a nfl:Match;
+  nfl:hometeam "New York Giants";
+  nfl:visitingteam "Arizona Cardinals";
+  nfl:score "48";
+  nfl:attendance "73577";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Match/99> a nfl:Match;
+  nfl:hometeam "Atlanta Falcons";
+  nfl:visitingteam "Los Angeles Rams";
+  nfl:score "47";
+  nfl:attendance "71856";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Atlanta>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Match/100> a nfl:Match;
+  nfl:hometeam "Green Bay Packers";
+  nfl:visitingteam "Oakland Raiders";
+  nfl:score "66";
+  nfl:attendance "78160";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Green-Bay>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Match/101> a nfl:Match;
+  nfl:hometeam "Cincinnati Bengals";
+  nfl:visitingteam "Jacksonville Jaguars";
+  nfl:score "44";
+  nfl:attendance "42784";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cincinnati>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Match/102> a nfl:Match;
+  nfl:hometeam "Tennessee Titans";
+  nfl:visitingteam "Los Angeles Chargers";
+  nfl:score "43";
+  nfl:attendance "62431";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Nashville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Match/103> a nfl:Match;
+  nfl:hometeam "Chicago Bears";
+  nfl:visitingteam "New Orleans Saints";
+  nfl:score "61";
+  nfl:attendance "62306";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Chicago>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Match/104> a nfl:Match;
+  nfl:hometeam "Seattle Seahawks";
+  nfl:visitingteam "Baltimore Ravens";
+  nfl:score "46";
+  nfl:attendance "69012";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Seattle>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Match/105> a nfl:Match;
+  nfl:hometeam "Dallas Cowboys";
+  nfl:visitingteam "Philadelphia Eagles";
+  nfl:score "47";
+  nfl:attendance "91213";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Arlington>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-20> .
+
+<http://visualdataweb.org/nflOntology/Match/106> a nfl:Match;
+  nfl:hometeam "New York Jets";
+  nfl:visitingteam "New England Patriots";
+  nfl:score "33";
+  nfl:attendance "78523";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-21> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-21> a nfl:Day;
+  nfl:date "2019-10-21" .
+
+<http://visualdataweb.org/nflOntology/Match/107> a nfl:Match;
+  nfl:hometeam "Minnesota Vikings";
+  nfl:visitingteam "Washington Redskins";
+  nfl:score "28";
+  nfl:attendance "66776";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Minneapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-24> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-24> a nfl:Day;
+  nfl:date "2019-10-24" .
+
+<http://visualdataweb.org/nflOntology/Match/108> a nfl:Match;
+  nfl:hometeam "Buffalo Bills";
+  nfl:visitingteam "Philadelphia Eagles";
+  nfl:score "44";
+  nfl:attendance "69435";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Orchard-Park>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-27> a nfl:Day;
+  nfl:date "2019-10-27" .
+
+<http://visualdataweb.org/nflOntology/Match/109> a nfl:Match;
+  nfl:hometeam "Detroit Lions";
+  nfl:visitingteam "New York Giants";
+  nfl:score "57";
+  nfl:attendance "58509";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Detroit>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/110> a nfl:Match;
+  nfl:hometeam "Indianapolis Colts";
+  nfl:visitingteam "Denver Broncos";
+  nfl:score "28";
+  nfl:attendance "61653";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Indianapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/111> a nfl:Match;
+  nfl:hometeam "Chicago Bears";
+  nfl:visitingteam "Los Angeles Chargers";
+  nfl:score "33";
+  nfl:attendance "61632";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Chicago>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/112> a nfl:Match;
+  nfl:hometeam "Jacksonville Jaguars";
+  nfl:visitingteam "New York Jets";
+  nfl:score "44";
+  nfl:attendance "57833";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Jacksonville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/113> a nfl:Match;
+  nfl:hometeam "New Orleans Saints";
+  nfl:visitingteam "Arizona Cardinals";
+  nfl:score "40";
+  nfl:attendance "73064";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/New-Orleans>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/114> a nfl:Match;
+  nfl:hometeam "Atlanta Falcons";
+  nfl:visitingteam "Seattle Seahawks";
+  nfl:score "47";
+  nfl:attendance "71483";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Atlanta>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/115> a nfl:Match;
+  nfl:hometeam "Tennessee Titans";
+  nfl:visitingteam "Tampa Bay Buccaneers";
+  nfl:score "50";
+  nfl:attendance "62073";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Nashville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/116> a nfl:Match;
+  nfl:hometeam "Los Angeles Rams";
+  nfl:visitingteam "Cincinnati Bengals";
+  nfl:score "34";
+  nfl:attendance "83720";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Los-Angeles>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/117> a nfl:Match;
+  nfl:hometeam "San Francisco 49ers";
+  nfl:visitingteam "Carolina Panthers";
+  nfl:score "64";
+  nfl:attendance "69083";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Santa-Clara>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/118> a nfl:Match;
+  nfl:hometeam "New England Patriots";
+  nfl:visitingteam "Cleveland Browns";
+  nfl:score "40";
+  nfl:attendance "65878";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Foxborough>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/119> a nfl:Match;
+  nfl:hometeam "Houston Texans";
+  nfl:visitingteam "Oakland Raiders";
+  nfl:score "51";
+  nfl:attendance "71893";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Houston>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/120> a nfl:Match;
+  nfl:hometeam "Kansas City Chiefs";
+  nfl:visitingteam "Green Bay Packers";
+  nfl:score "55";
+  nfl:attendance "73558";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Kansas-City>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-27> .
+
+<http://visualdataweb.org/nflOntology/Match/121> a nfl:Match;
+  nfl:hometeam "Pittsburgh Steelers";
+  nfl:visitingteam "Miami Dolphins";
+  nfl:score "41";
+  nfl:attendance "59244";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Pittsburgh>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-28> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-28> a nfl:Day;
+  nfl:date "2019-10-28" .
+
+<http://visualdataweb.org/nflOntology/Match/122> a nfl:Match;
+  nfl:hometeam "Arizona Cardinals";
+  nfl:visitingteam "San Francisco 49ers";
+  nfl:score "53";
+  nfl:attendance "60986";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Glendale>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-10-31> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-10-31> a nfl:Day;
+  nfl:date "2019-10-31" .
+
+<http://visualdataweb.org/nflOntology/Match/123> a nfl:Match;
+  nfl:hometeam "Jacksonville Jaguars";
+  nfl:visitingteam "Houston Texans";
+  nfl:score "29";
+  nfl:attendance "84771";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Jacksonville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-03> a nfl:Day;
+  nfl:date "2019-11-03" .
+
+<http://visualdataweb.org/nflOntology/Match/124> a nfl:Match;
+  nfl:hometeam "Carolina Panthers";
+  nfl:visitingteam "Tennessee Titans";
+  nfl:score "50";
+  nfl:attendance "72540";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Charlotte>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Match/125> a nfl:Match;
+  nfl:hometeam "Philadelphia Eagles";
+  nfl:visitingteam "Chicago Bears";
+  nfl:score "36";
+  nfl:attendance "69796";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Philadelphia>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Match/126> a nfl:Match;
+  nfl:hometeam "Miami Dolphins";
+  nfl:visitingteam "New York Jets";
+  nfl:score "44";
+  nfl:attendance "59229";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Miami-Gardens>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Match/127> a nfl:Match;
+  nfl:hometeam "Buffalo Bills";
+  nfl:visitingteam "Washington Redskins";
+  nfl:score "33";
+  nfl:attendance "67685";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Orchard-Park>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Location/Orchard-Park> a nfl:Location;
+  nfl:city "Orchard-Park" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-03> a nfl:Day;
+  nfl:date "2019-11-03" .
+
+<http://visualdataweb.org/nflOntology/Match/128> a nfl:Match;
+  nfl:hometeam "Pittsburgh Steelers";
+  nfl:visitingteam "Indianapolis Colts";
+  nfl:score "50";
+  nfl:attendance "61115";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Pittsburgh>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Location/Pittsburgh> a nfl:Location;
+  nfl:city "Pittsburgh" .
+
+<http://visualdataweb.org/nflOntology/Match/129> a nfl:Match;
+  nfl:hometeam "Kansas City Chiefs";
+  nfl:visitingteam "Minnesota Vikings";
+  nfl:score "49";
+  nfl:attendance "73615";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Kansas-City>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Location/Kansas-City> a nfl:Location;
+  nfl:city "Kansas-City" .
+
+<http://visualdataweb.org/nflOntology/Match/130> a nfl:Match;
+  nfl:hometeam "Oakland Raiders";
+  nfl:visitingteam "Detroit Lions";
+  nfl:score "55";
+  nfl:attendance "53318";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Oakland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Location/Oakland> a nfl:Location;
+  nfl:city "Oakland" .
+
+<http://visualdataweb.org/nflOntology/Match/131> a nfl:Match;
+  nfl:hometeam "Seattle Seahawks";
+  nfl:visitingteam "Tampa Bay Buccaneers";
+  nfl:score "74";
+  nfl:attendance "68948";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Seattle>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Location/Seattle> a nfl:Location;
+  nfl:city "Seattle" .
+
+<http://visualdataweb.org/nflOntology/Match/132> a nfl:Match;
+  nfl:hometeam "Denver Broncos";
+  nfl:visitingteam "Cleveland Browns";
+  nfl:score "43";
+  nfl:attendance "76743";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Denver>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Location/Denver> a nfl:Location;
+  nfl:city "Denver" .
+
+<http://visualdataweb.org/nflOntology/Match/133> a nfl:Match;
+  nfl:hometeam "Los Angeles Chargers";
+  nfl:visitingteam "Green Bay Packers";
+  nfl:score "37";
+  nfl:attendance "25435";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Carson>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Location/Carson> a nfl:Location;
+  nfl:city "Carson" .
+
+<http://visualdataweb.org/nflOntology/Match/134> a nfl:Match;
+  nfl:hometeam "Baltimore Ravens";
+  nfl:visitingteam "New England Patriots";
+  nfl:score "57";
+  nfl:attendance "71157";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Baltimore>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-03> .
+
+<http://visualdataweb.org/nflOntology/Location/Baltimore> a nfl:Location;
+  nfl:city "Baltimore" .
+
+<http://visualdataweb.org/nflOntology/Match/135> a nfl:Match;
+  nfl:hometeam "New York Giants";
+  nfl:visitingteam "Dallas Cowboys";
+  nfl:score "55";
+  nfl:attendance "76107";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-04> .
+
+<http://visualdataweb.org/nflOntology/Location/East-Rutherford> a nfl:Location;
+  nfl:city "East-Rutherford" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-04> a nfl:Day;
+  nfl:date "2019-11-04" .
+
+<http://visualdataweb.org/nflOntology/Match/136> a nfl:Match;
+  nfl:hometeam "Oakland Raiders";
+  nfl:visitingteam "Los Angeles Chargers";
+  nfl:score "50";
+  nfl:attendance "51954";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Oakland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-07> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-07> a nfl:Day;
+  nfl:date "2019-11-07" .
+
+<http://visualdataweb.org/nflOntology/Match/137> a nfl:Match;
+  nfl:hometeam "New Orleans Saints";
+  nfl:visitingteam "Atlanta Falcons";
+  nfl:score "35";
+  nfl:attendance "73283";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/New-Orleans>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-10> .
+
+<http://visualdataweb.org/nflOntology/Location/New-Orleans> a nfl:Location;
+  nfl:city "New-Orleans" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-10> a nfl:Day;
+  nfl:date "2019-11-10" .
+
+<http://visualdataweb.org/nflOntology/Match/138> a nfl:Match;
+  nfl:hometeam "Cleveland Browns";
+  nfl:visitingteam "Buffalo Bills";
+  nfl:score "35";
+  nfl:attendance "67431";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cleveland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-10> .
+
+<http://visualdataweb.org/nflOntology/Location/Cleveland> a nfl:Location;
+  nfl:city "Cleveland" .
+
+<http://visualdataweb.org/nflOntology/Match/139> a nfl:Match;
+  nfl:hometeam "Cincinnati Bengals";
+  nfl:visitingteam "Baltimore Ravens";
+  nfl:score "62";
+  nfl:attendance "45918";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cincinnati>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-10> .
+
+<http://visualdataweb.org/nflOntology/Location/Cincinnati> a nfl:Location;
+  nfl:city "Cincinnati" .
+
+<http://visualdataweb.org/nflOntology/Match/140> a nfl:Match;
+  nfl:hometeam "Chicago Bears";
+  nfl:visitingteam "Detroit Lions";
+  nfl:score "33";
+  nfl:attendance "61758";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Chicago>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-10> .
+
+<http://visualdataweb.org/nflOntology/Location/Chicago> a nfl:Location;
+  nfl:city "Chicago" .
+
+<http://visualdataweb.org/nflOntology/Match/141> a nfl:Match;
+  nfl:hometeam "Tennessee Titans";
+  nfl:visitingteam "Kansas City Chiefs";
+  nfl:score "67";
+  nfl:attendance "68864";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Nashville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-10> .
+
+<http://visualdataweb.org/nflOntology/Location/Nashville> a nfl:Location;
+  nfl:city "Nashville" .
+
+<http://visualdataweb.org/nflOntology/Match/142> a nfl:Match;
+  nfl:hometeam "Tampa Bay Buccaneers";
+  nfl:visitingteam "Arizona Cardinals";
+  nfl:score "57";
+  nfl:attendance "40038";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Tampa>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-10> .
+
+<http://visualdataweb.org/nflOntology/Location/Tampa> a nfl:Location;
+  nfl:city "Tampa" .
+
+<http://visualdataweb.org/nflOntology/Match/143> a nfl:Match;
+  nfl:hometeam "New York Jets";
+  nfl:visitingteam "New York Giants";
+  nfl:score "61";
+  nfl:attendance "78523";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-10> .
+
+<http://visualdataweb.org/nflOntology/Match/144> a nfl:Match;
+  nfl:hometeam "Indianapolis Colts";
+  nfl:visitingteam "Miami Dolphins";
+  nfl:score "28";
+  nfl:attendance "60510";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Indianapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-10> .
+
+<http://visualdataweb.org/nflOntology/Location/Indianapolis> a nfl:Location;
+  nfl:city "Indianapolis" .
+
+<http://visualdataweb.org/nflOntology/Match/145> a nfl:Match;
+  nfl:hometeam "Pittsburgh Steelers";
+  nfl:visitingteam "Los Angeles Rams";
+  nfl:score "29";
+  nfl:attendance "63627";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Pittsburgh>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-10> .
+
+<http://visualdataweb.org/nflOntology/Match/146> a nfl:Match;
+  nfl:hometeam "Green Bay Packers";
+  nfl:visitingteam "Carolina Panthers";
+  nfl:score "40";
+  nfl:attendance "78090";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Green-Bay>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-10> .
+
+<http://visualdataweb.org/nflOntology/Location/Green-Bay> a nfl:Location;
+  nfl:city "Green-Bay" .
+
+<http://visualdataweb.org/nflOntology/Match/147> a nfl:Match;
+  nfl:hometeam "Dallas Cowboys";
+  nfl:visitingteam "Minnesota Vikings";
+  nfl:score "52";
+  nfl:attendance "91188";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Arlington>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-10> .
+
+<http://visualdataweb.org/nflOntology/Location/Arlington> a nfl:Location;
+  nfl:city "Arlington" .
+
+<http://visualdataweb.org/nflOntology/Match/148> a nfl:Match;
+  nfl:hometeam "San Francisco 49ers";
+  nfl:visitingteam "Seattle Seahawks";
+  nfl:score "51";
+  nfl:attendance "71404";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Santa-Clara>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-11> .
+
+<http://visualdataweb.org/nflOntology/Location/Santa-Clara> a nfl:Location;
+  nfl:city "Santa-Clara" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-11> a nfl:Day;
+  nfl:date "2019-11-11" .
+
+<http://visualdataweb.org/nflOntology/Match/149> a nfl:Match;
+  nfl:hometeam "Cleveland Browns";
+  nfl:visitingteam "Pittsburgh Steelers";
+  nfl:score "28";
+  nfl:attendance "67431";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cleveland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-14> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-14> a nfl:Day;
+  nfl:date "2019-11-14" .
+
+<http://visualdataweb.org/nflOntology/Match/150> a nfl:Match;
+  nfl:hometeam "Tampa Bay Buccaneers";
+  nfl:visitingteam "New Orleans Saints";
+  nfl:score "51";
+  nfl:attendance "54333";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Tampa>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-17> a nfl:Day;
+  nfl:date "2019-11-17" .
+
+<http://visualdataweb.org/nflOntology/Match/151> a nfl:Match;
+  nfl:hometeam "Detroit Lions";
+  nfl:visitingteam "Dallas Cowboys";
+  nfl:score "62";
+  nfl:attendance "61801";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Detroit>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Location/Detroit> a nfl:Location;
+  nfl:city "Detroit" .
+
+<http://visualdataweb.org/nflOntology/Match/152> a nfl:Match;
+  nfl:hometeam "Washington Redskins";
+  nfl:visitingteam "New York Jets";
+  nfl:score "51";
+  nfl:attendance "56426";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Landover>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Location/Landover> a nfl:Location;
+  nfl:city "Landover" .
+
+<http://visualdataweb.org/nflOntology/Match/153> a nfl:Match;
+  nfl:hometeam "Carolina Panthers";
+  nfl:visitingteam "Atlanta Falcons";
+  nfl:score "32";
+  nfl:attendance "73106";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Charlotte>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Location/Charlotte> a nfl:Location;
+  nfl:city "Charlotte" .
+
+<http://visualdataweb.org/nflOntology/Match/154> a nfl:Match;
+  nfl:hometeam "Miami Dolphins";
+  nfl:visitingteam "Buffalo Bills";
+  nfl:score "57";
+  nfl:attendance "64187";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Miami-Gardens>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Location/Miami-Gardens> a nfl:Location;
+  nfl:city "Miami-Gardens" .
+
+<http://visualdataweb.org/nflOntology/Match/155> a nfl:Match;
+  nfl:hometeam "Minnesota Vikings";
+  nfl:visitingteam "Denver Broncos";
+  nfl:score "50";
+  nfl:attendance "66883";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Minneapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Location/Minneapolis> a nfl:Location;
+  nfl:city "Minneapolis" .
+
+<http://visualdataweb.org/nflOntology/Match/156> a nfl:Match;
+  nfl:hometeam "Baltimore Ravens";
+  nfl:visitingteam "Houston Texans";
+  nfl:score "48";
+  nfl:attendance "70731";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Baltimore>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Match/157> a nfl:Match;
+  nfl:hometeam "Indianapolis Colts";
+  nfl:visitingteam "Jacksonville Jaguars";
+  nfl:score "46";
+  nfl:attendance "61986";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Indianapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Match/158> a nfl:Match;
+  nfl:hometeam "San Francisco 49ers";
+  nfl:visitingteam "Arizona Cardinals";
+  nfl:score "62";
+  nfl:attendance "69419";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Santa-Clara>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Match/159> a nfl:Match;
+  nfl:hometeam "Philadelphia Eagles";
+  nfl:visitingteam "New England Patriots";
+  nfl:score "27";
+  nfl:attendance "69796";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Philadelphia>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Location/Philadelphia> a nfl:Location;
+  nfl:city "Philadelphia" .
+
+<http://visualdataweb.org/nflOntology/Match/160> a nfl:Match;
+  nfl:hometeam "Oakland Raiders";
+  nfl:visitingteam "Cincinnati Bengals";
+  nfl:score "27";
+  nfl:attendance "51921";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Oakland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Match/161> a nfl:Match;
+  nfl:hometeam "Los Angeles Rams";
+  nfl:visitingteam "Chicago Bears";
+  nfl:score "24";
+  nfl:attendance "70758";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Los-Angeles>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-17> .
+
+<http://visualdataweb.org/nflOntology/Location/Los-Angeles> a nfl:Location;
+  nfl:city "Los-Angeles" .
+
+<http://visualdataweb.org/nflOntology/Match/162> a nfl:Match;
+  nfl:hometeam "Los Angeles Chargers";
+  nfl:visitingteam "Kansas City Chiefs";
+  nfl:score "41";
+  nfl:attendance "76252";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Carson>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-18> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-18> a nfl:Day;
+  nfl:date "2019-11-18" .
+
+<http://visualdataweb.org/nflOntology/Match/163> a nfl:Match;
+  nfl:hometeam "Houston Texans";
+  nfl:visitingteam "Indianapolis Colts";
+  nfl:score "37";
+  nfl:attendance "71727";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Houston>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-21> .
+
+<http://visualdataweb.org/nflOntology/Location/Houston> a nfl:Location;
+  nfl:city "Houston" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-21> a nfl:Day;
+  nfl:date "2019-11-21" .
+
+<http://visualdataweb.org/nflOntology/Match/164> a nfl:Match;
+  nfl:hometeam "Atlanta Falcons";
+  nfl:visitingteam "Tampa Bay Buccaneers";
+  nfl:score "57";
+  nfl:attendance "71463";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Atlanta>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Location/Atlanta> a nfl:Location;
+  nfl:city "Atlanta" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-24> a nfl:Day;
+  nfl:date "2019-11-24" .
+
+<http://visualdataweb.org/nflOntology/Match/165> a nfl:Match;
+  nfl:hometeam "Buffalo Bills";
+  nfl:visitingteam "Denver Broncos";
+  nfl:score "23";
+  nfl:attendance "67338";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Orchard-Park>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Match/166> a nfl:Match;
+  nfl:hometeam "New Orleans Saints";
+  nfl:visitingteam "Carolina Panthers";
+  nfl:score "65";
+  nfl:attendance "73068";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/New-Orleans>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Match/167> a nfl:Match;
+  nfl:hometeam "Washington Redskins";
+  nfl:visitingteam "Detroit Lions";
+  nfl:score "35";
+  nfl:attendance "57754";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Landover>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Match/168> a nfl:Match;
+  nfl:hometeam "Cincinnati Bengals";
+  nfl:visitingteam "Pittsburgh Steelers";
+  nfl:score "26";
+  nfl:attendance "47423";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cincinnati>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Match/169> a nfl:Match;
+  nfl:hometeam "New York Jets";
+  nfl:visitingteam "Oakland Raiders";
+  nfl:score "37";
+  nfl:attendance "78523";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Match/170> a nfl:Match;
+  nfl:hometeam "Philadelphia Eagles";
+  nfl:visitingteam "Seattle Seahawks";
+  nfl:score "26";
+  nfl:attendance "69796";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Philadelphia>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Match/171> a nfl:Match;
+  nfl:hometeam "Chicago Bears";
+  nfl:visitingteam "New York Giants";
+  nfl:score "33";
+  nfl:attendance "61581";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Chicago>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Match/172> a nfl:Match;
+  nfl:hometeam "Cleveland Browns";
+  nfl:visitingteam "Miami Dolphins";
+  nfl:score "65";
+  nfl:attendance "67431";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cleveland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Match/173> a nfl:Match;
+  nfl:hometeam "Tennessee Titans";
+  nfl:visitingteam "Jacksonville Jaguars";
+  nfl:score "62";
+  nfl:attendance "60926";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Nashville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Match/174> a nfl:Match;
+  nfl:hometeam "New England Patriots";
+  nfl:visitingteam "Dallas Cowboys";
+  nfl:score "22";
+  nfl:attendance "65878";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Foxborough>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Location/Foxborough> a nfl:Location;
+  nfl:city "Foxborough" .
+
+<http://visualdataweb.org/nflOntology/Match/175> a nfl:Match;
+  nfl:hometeam "San Francisco 49ers";
+  nfl:visitingteam "Green Bay Packers";
+  nfl:score "45";
+  nfl:attendance "71500";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Santa-Clara>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-24> .
+
+<http://visualdataweb.org/nflOntology/Match/176> a nfl:Match;
+  nfl:hometeam "Los Angeles Rams";
+  nfl:visitingteam "Baltimore Ravens";
+  nfl:score "51";
+  nfl:attendance "72409";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Los-Angeles>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-25> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-25> a nfl:Day;
+  nfl:date "2019-11-25" .
+
+<http://visualdataweb.org/nflOntology/Match/177> a nfl:Match;
+  nfl:hometeam "Detroit Lions";
+  nfl:visitingteam "Chicago Bears";
+  nfl:score "44";
+  nfl:attendance "65412";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Detroit>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-28> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-11-28> a nfl:Day;
+  nfl:date "2019-11-28" .
+
+<http://visualdataweb.org/nflOntology/Match/178> a nfl:Match;
+  nfl:hometeam "Dallas Cowboys";
+  nfl:visitingteam "Buffalo Bills";
+  nfl:score "41";
+  nfl:attendance "90445";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Arlington>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-28> .
+
+<http://visualdataweb.org/nflOntology/Match/179> a nfl:Match;
+  nfl:hometeam "Atlanta Falcons";
+  nfl:visitingteam "New Orleans Saints";
+  nfl:score "44";
+  nfl:attendance "71993";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Atlanta>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-11-28> .
+
+<http://visualdataweb.org/nflOntology/Match/180> a nfl:Match;
+  nfl:hometeam "New York Giants";
+  nfl:visitingteam "Green Bay Packers";
+  nfl:score "44";
+  nfl:attendance "75950";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-01> a nfl:Day;
+  nfl:date "2019-12-01" .
+
+<http://visualdataweb.org/nflOntology/Match/181> a nfl:Match;
+  nfl:hometeam "Jacksonville Jaguars";
+  nfl:visitingteam "Tampa Bay Buccaneers";
+  nfl:score "39";
+  nfl:attendance "62633";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Jacksonville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Location/Jacksonville> a nfl:Location;
+  nfl:city "Jacksonville" .
+
+<http://visualdataweb.org/nflOntology/Match/182> a nfl:Match;
+  nfl:hometeam "Pittsburgh Steelers";
+  nfl:visitingteam "Cleveland Browns";
+  nfl:score "33";
+  nfl:attendance "62157";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Pittsburgh>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Match/183> a nfl:Match;
+  nfl:hometeam "Carolina Panthers";
+  nfl:visitingteam "Washington Redskins";
+  nfl:score "50";
+  nfl:attendance "71504";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Charlotte>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Match/184> a nfl:Match;
+  nfl:hometeam "Baltimore Ravens";
+  nfl:visitingteam "San Francisco 49ers";
+  nfl:score "37";
+  nfl:attendance "71029";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Baltimore>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Match/185> a nfl:Match;
+  nfl:hometeam "Cincinnati Bengals";
+  nfl:visitingteam "New York Jets";
+  nfl:score "28";
+  nfl:attendance "39804";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cincinnati>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Match/186> a nfl:Match;
+  nfl:hometeam "Miami Dolphins";
+  nfl:visitingteam "Philadelphia Eagles";
+  nfl:score "68";
+  nfl:attendance "65545";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Miami-Gardens>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Match/187> a nfl:Match;
+  nfl:hometeam "Indianapolis Colts";
+  nfl:visitingteam "Tennessee Titans";
+  nfl:score "48";
+  nfl:attendance "60361";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Indianapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Match/188> a nfl:Match;
+  nfl:hometeam "Arizona Cardinals";
+  nfl:visitingteam "Los Angeles Rams";
+  nfl:score "41";
+  nfl:attendance "60944";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Glendale>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Location/Glendale> a nfl:Location;
+  nfl:city "Glendale" .
+
+<http://visualdataweb.org/nflOntology/Match/189> a nfl:Match;
+  nfl:hometeam "Denver Broncos";
+  nfl:visitingteam "Los Angeles Chargers";
+  nfl:score "43";
+  nfl:attendance "74638";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Denver>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Match/190> a nfl:Match;
+  nfl:hometeam "Kansas City Chiefs";
+  nfl:visitingteam "Oakland Raiders";
+  nfl:score "49";
+  nfl:attendance "73548";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Kansas-City>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Match/191> a nfl:Match;
+  nfl:hometeam "Houston Texans";
+  nfl:visitingteam "New England Patriots";
+  nfl:score "50";
+  nfl:attendance "72025";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Houston>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-01> .
+
+<http://visualdataweb.org/nflOntology/Match/192> a nfl:Match;
+  nfl:hometeam "Seattle Seahawks";
+  nfl:visitingteam "Minnesota Vikings";
+  nfl:score "67";
+  nfl:attendance "69080";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Seattle>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-02> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-02> a nfl:Day;
+  nfl:date "2019-12-02" .
+
+<http://visualdataweb.org/nflOntology/Match/193> a nfl:Match;
+  nfl:hometeam "Chicago Bears";
+  nfl:visitingteam "Dallas Cowboys";
+  nfl:score "55";
+  nfl:attendance "61276";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Chicago>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-05> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-05> a nfl:Day;
+  nfl:date "2019-12-05" .
+
+<http://visualdataweb.org/nflOntology/Match/194> a nfl:Match;
+  nfl:hometeam "Atlanta Falcons";
+  nfl:visitingteam "Carolina Panthers";
+  nfl:score "60";
+  nfl:attendance "70592";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Atlanta>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-08> a nfl:Day;
+  nfl:date "2019-12-08" .
+
+<http://visualdataweb.org/nflOntology/Match/195> a nfl:Match;
+  nfl:hometeam "Buffalo Bills";
+  nfl:visitingteam "Baltimore Ravens";
+  nfl:score "41";
+  nfl:attendance "69134";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Orchard-Park>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/196> a nfl:Match;
+  nfl:hometeam "Cleveland Browns";
+  nfl:visitingteam "Cincinnati Bengals";
+  nfl:score "46";
+  nfl:attendance "67431";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cleveland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/197> a nfl:Match;
+  nfl:hometeam "New York Jets";
+  nfl:visitingteam "Miami Dolphins";
+  nfl:score "43";
+  nfl:attendance "78523";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/198> a nfl:Match;
+  nfl:hometeam "Tampa Bay Buccaneers";
+  nfl:visitingteam "Indianapolis Colts";
+  nfl:score "73";
+  nfl:attendance "50232";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Tampa>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/199> a nfl:Match;
+  nfl:hometeam "New Orleans Saints";
+  nfl:visitingteam "San Francisco 49ers";
+  nfl:score "94";
+  nfl:attendance "73038";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/New-Orleans>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/200> a nfl:Match;
+  nfl:hometeam "Houston Texans";
+  nfl:visitingteam "Denver Broncos";
+  nfl:score "62";
+  nfl:attendance "71769";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Houston>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/201> a nfl:Match;
+  nfl:hometeam "Minnesota Vikings";
+  nfl:visitingteam "Detroit Lions";
+  nfl:score "27";
+  nfl:attendance "66776";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Minneapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/202> a nfl:Match;
+  nfl:hometeam "Green Bay Packers";
+  nfl:visitingteam "Washington Redskins";
+  nfl:score "35";
+  nfl:attendance "77296";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Green-Bay>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/203> a nfl:Match;
+  nfl:hometeam "Jacksonville Jaguars";
+  nfl:visitingteam "Los Angeles Chargers";
+  nfl:score "55";
+  nfl:attendance "57866";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Jacksonville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/204> a nfl:Match;
+  nfl:hometeam "Arizona Cardinals";
+  nfl:visitingteam "Pittsburgh Steelers";
+  nfl:score "40";
+  nfl:attendance "63880";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Glendale>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/205> a nfl:Match;
+  nfl:hometeam "Oakland Raiders";
+  nfl:visitingteam "Tennessee Titans";
+  nfl:score "63";
+  nfl:attendance "52760";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Oakland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/206> a nfl:Match;
+  nfl:hometeam "New England Patriots";
+  nfl:visitingteam "Kansas City Chiefs";
+  nfl:score "39";
+  nfl:attendance "65878";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Foxborough>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/207> a nfl:Match;
+  nfl:hometeam "Los Angeles Rams";
+  nfl:visitingteam "Seattle Seahawks";
+  nfl:score "40";
+  nfl:attendance "71501";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Los-Angeles>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-08> .
+
+<http://visualdataweb.org/nflOntology/Match/208> a nfl:Match;
+  nfl:hometeam "Philadelphia Eagles";
+  nfl:visitingteam "New York Giants";
+  nfl:score "40";
+  nfl:attendance "69796";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Philadelphia>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-09> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-09> a nfl:Day;
+  nfl:date "2019-12-09" .
+
+<http://visualdataweb.org/nflOntology/Match/209> a nfl:Match;
+  nfl:hometeam "Baltimore Ravens";
+  nfl:visitingteam "New York Jets";
+  nfl:score "63";
+  nfl:attendance "70545";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Baltimore>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-12> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-12> a nfl:Day;
+  nfl:date "2019-12-12" .
+
+<http://visualdataweb.org/nflOntology/Match/210> a nfl:Match;
+  nfl:hometeam "Kansas City Chiefs";
+  nfl:visitingteam "Denver Broncos";
+  nfl:score "26";
+  nfl:attendance "73257";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Kansas-City>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-15> a nfl:Day;
+  nfl:date "2019-12-15" .
+
+<http://visualdataweb.org/nflOntology/Match/211> a nfl:Match;
+  nfl:hometeam "Washington Redskins";
+  nfl:visitingteam "Philadelphia Eagles";
+  nfl:score "64";
+  nfl:attendance "63246";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Landover>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/212> a nfl:Match;
+  nfl:hometeam "Carolina Panthers";
+  nfl:visitingteam "Seattle Seahawks";
+  nfl:score "54";
+  nfl:attendance "72544";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Charlotte>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/213> a nfl:Match;
+  nfl:hometeam "Detroit Lions";
+  nfl:visitingteam "Tampa Bay Buccaneers";
+  nfl:score "55";
+  nfl:attendance "56515";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Detroit>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/214> a nfl:Match;
+  nfl:hometeam "Green Bay Packers";
+  nfl:visitingteam "Chicago Bears";
+  nfl:score "34";
+  nfl:attendance "78266";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Green-Bay>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/215> a nfl:Match;
+  nfl:hometeam "Tennessee Titans";
+  nfl:visitingteam "Houston Texans";
+  nfl:score "45";
+  nfl:attendance "65265";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Nashville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/216> a nfl:Match;
+  nfl:hometeam "Cincinnati Bengals";
+  nfl:visitingteam "New England Patriots";
+  nfl:score "47";
+  nfl:attendance "57066";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cincinnati>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/217> a nfl:Match;
+  nfl:hometeam "New York Giants";
+  nfl:visitingteam "Miami Dolphins";
+  nfl:score "56";
+  nfl:attendance "72894";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/218> a nfl:Match;
+  nfl:hometeam "Los Angeles Chargers";
+  nfl:visitingteam "Minnesota Vikings";
+  nfl:score "49";
+  nfl:attendance "25446";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Carson>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/219> a nfl:Match;
+  nfl:hometeam "Oakland Raiders";
+  nfl:visitingteam "Jacksonville Jaguars";
+  nfl:score "36";
+  nfl:attendance "52788";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Oakland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/220> a nfl:Match;
+  nfl:hometeam "Arizona Cardinals";
+  nfl:visitingteam "Cleveland Browns";
+  nfl:score "62";
+  nfl:attendance "63345";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Glendale>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/221> a nfl:Match;
+  nfl:hometeam "Dallas Cowboys";
+  nfl:visitingteam "Los Angeles Rams";
+  nfl:score "65";
+  nfl:attendance "90436";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Arlington>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/222> a nfl:Match;
+  nfl:hometeam "San Francisco 49ers";
+  nfl:visitingteam "Atlanta Falcons";
+  nfl:score "51";
+  nfl:attendance "70910";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Santa-Clara>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/223> a nfl:Match;
+  nfl:hometeam "Pittsburgh Steelers";
+  nfl:visitingteam "Buffalo Bills";
+  nfl:score "27";
+  nfl:attendance "64694";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Pittsburgh>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-15> .
+
+<http://visualdataweb.org/nflOntology/Match/224> a nfl:Match;
+  nfl:hometeam "New Orleans Saints";
+  nfl:visitingteam "Indianapolis Colts";
+  nfl:score "41";
+  nfl:attendance "73053";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/New-Orleans>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-16> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-16> a nfl:Day;
+  nfl:date "2019-12-16" .
+
+<http://visualdataweb.org/nflOntology/Match/225> a nfl:Match;
+  nfl:hometeam "Tampa Bay Buccaneers";
+  nfl:visitingteam "Houston Texans";
+  nfl:score "43";
+  nfl:attendance "49036";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Tampa>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-21> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-21> a nfl:Day;
+  nfl:date "2019-12-21" .
+
+<http://visualdataweb.org/nflOntology/Match/226> a nfl:Match;
+  nfl:hometeam "New England Patriots";
+  nfl:visitingteam "Buffalo Bills";
+  nfl:score "41";
+  nfl:attendance "65878";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Foxborough>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-21> .
+
+<http://visualdataweb.org/nflOntology/Match/227> a nfl:Match;
+  nfl:hometeam "San Francisco 49ers";
+  nfl:visitingteam "Los Angeles Rams";
+  nfl:score "65";
+  nfl:attendance "70103";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Santa-Clara>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-21> .
+
+<http://visualdataweb.org/nflOntology/Match/228> a nfl:Match;
+  nfl:hometeam "Tennessee Titans";
+  nfl:visitingteam "New Orleans Saints";
+  nfl:score "66";
+  nfl:attendance "66756";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Nashville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-22> a nfl:Day;
+  nfl:date "2019-12-22" .
+
+<http://visualdataweb.org/nflOntology/Match/229> a nfl:Match;
+  nfl:hometeam "Atlanta Falcons";
+  nfl:visitingteam "Jacksonville Jaguars";
+  nfl:score "36";
+  nfl:attendance "70873";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Atlanta>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Match/230> a nfl:Match;
+  nfl:hometeam "Miami Dolphins";
+  nfl:visitingteam "Cincinnati Bengals";
+  nfl:score "73";
+  nfl:attendance "60968";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Miami-Gardens>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Match/231> a nfl:Match;
+  nfl:hometeam "Cleveland Browns";
+  nfl:visitingteam "Baltimore Ravens";
+  nfl:score "46";
+  nfl:attendance "67431";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cleveland>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Match/232> a nfl:Match;
+  nfl:hometeam "Washington Redskins";
+  nfl:visitingteam "New York Giants";
+  nfl:score "76";
+  nfl:attendance "66083";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Landover>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Match/233> a nfl:Match;
+  nfl:hometeam "New York Jets";
+  nfl:visitingteam "Pittsburgh Steelers";
+  nfl:score "26";
+  nfl:attendance "78523";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Match/234> a nfl:Match;
+  nfl:hometeam "Indianapolis Colts";
+  nfl:visitingteam "Carolina Panthers";
+  nfl:score "44";
+  nfl:attendance "61845";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Indianapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Match/235> a nfl:Match;
+  nfl:hometeam "Denver Broncos";
+  nfl:visitingteam "Detroit Lions";
+  nfl:score "44";
+  nfl:attendance "74115";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Denver>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Match/236> a nfl:Match;
+  nfl:hometeam "Los Angeles Chargers";
+  nfl:visitingteam "Oakland Raiders";
+  nfl:score "41";
+  nfl:attendance "25380";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Carson>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Match/237> a nfl:Match;
+  nfl:hometeam "Seattle Seahawks";
+  nfl:visitingteam "Arizona Cardinals";
+  nfl:score "40";
+  nfl:attendance "69022";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Seattle>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Match/238> a nfl:Match;
+  nfl:hometeam "Philadelphia Eagles";
+  nfl:visitingteam "Dallas Cowboys";
+  nfl:score "26";
+  nfl:attendance "69796";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Philadelphia>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Match/239> a nfl:Match;
+  nfl:hometeam "Chicago Bears";
+  nfl:visitingteam "Kansas City Chiefs";
+  nfl:score "29";
+  nfl:attendance "62213";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Chicago>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-22> .
+
+<http://visualdataweb.org/nflOntology/Match/240> a nfl:Match;
+  nfl:hometeam "Minnesota Vikings";
+  nfl:visitingteam "Green Bay Packers";
+  nfl:score "33";
+  nfl:attendance "67157";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Minneapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-23> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-23> a nfl:Day;
+  nfl:date "2019-12-23" .
+
+<http://visualdataweb.org/nflOntology/Match/241> a nfl:Match;
+  nfl:hometeam "Carolina Panthers";
+  nfl:visitingteam "New Orleans Saints";
+  nfl:score "52";
+  nfl:attendance "72203";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Charlotte>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-29> a nfl:Day;
+  nfl:date "2019-12-29" .
+
+<http://visualdataweb.org/nflOntology/Match/242> a nfl:Match;
+  nfl:hometeam "Minnesota Vikings";
+  nfl:visitingteam "Chicago Bears";
+  nfl:score "40";
+  nfl:attendance "66913";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Minneapolis>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/243> a nfl:Match;
+  nfl:hometeam "Kansas City Chiefs";
+  nfl:visitingteam "Los Angeles Chargers";
+  nfl:score "52";
+  nfl:attendance "73680";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Kansas-City>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/244> a nfl:Match;
+  nfl:hometeam "New England Patriots";
+  nfl:visitingteam "Miami Dolphins";
+  nfl:score "51";
+  nfl:attendance "65878";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Foxborough>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/245> a nfl:Match;
+  nfl:hometeam "Tampa Bay Buccaneers";
+  nfl:visitingteam "Atlanta Falcons";
+  nfl:score "50";
+  nfl:attendance "50417";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Tampa>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/246> a nfl:Match;
+  nfl:hometeam "Buffalo Bills";
+  nfl:visitingteam "New York Jets";
+  nfl:score "19";
+  nfl:attendance "69016";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Orchard-Park>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/247> a nfl:Match;
+  nfl:hometeam "Detroit Lions";
+  nfl:visitingteam "Green Bay Packers";
+  nfl:score "43";
+  nfl:attendance "62840";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Detroit>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/248> a nfl:Match;
+  nfl:hometeam "Cincinnati Bengals";
+  nfl:visitingteam "Cleveland Browns";
+  nfl:score "56";
+  nfl:attendance "47759";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cincinnati>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/249> a nfl:Match;
+  nfl:hometeam "Jacksonville Jaguars";
+  nfl:visitingteam "Indianapolis Colts";
+  nfl:score "58";
+  nfl:attendance "58472";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Jacksonville>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/250> a nfl:Match;
+  nfl:hometeam "Los Angeles Rams";
+  nfl:visitingteam "Arizona Cardinals";
+  nfl:score "55";
+  nfl:attendance "68665";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Los-Angeles>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/251> a nfl:Match;
+  nfl:hometeam "New York Giants";
+  nfl:visitingteam "Philadelphia Eagles";
+  nfl:score "51";
+  nfl:attendance "75029";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/East-Rutherford>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/252> a nfl:Match;
+  nfl:hometeam "Dallas Cowboys";
+  nfl:visitingteam "Washington Redskins";
+  nfl:score "63";
+  nfl:attendance "90646";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Arlington>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/253> a nfl:Match;
+  nfl:hometeam "Denver Broncos";
+  nfl:visitingteam "Oakland Raiders";
+  nfl:score "31";
+  nfl:attendance "76334";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Denver>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Match/254> a nfl:Match;
+  nfl:hometeam "Baltimore Ravens";
+  nfl:visitingteam "Pittsburgh Steelers";
+  nfl:score "38";
+  nfl:attendance "70695";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Baltimore>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Location/Baltimore> a nfl:Location;
+  nfl:city "Baltimore" .
+
+<http://visualdataweb.org/nflOntology/Day/2019-12-29> a nfl:Day;
+  nfl:date "2019-12-29" .
+
+<http://visualdataweb.org/nflOntology/Match/255> a nfl:Match;
+  nfl:hometeam "Houston Texans";
+  nfl:visitingteam "Tennessee Titans";
+  nfl:score "49";
+  nfl:attendance "71794";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Houston>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Location/Houston> a nfl:Location;
+  nfl:city "Houston" .
+
+<http://visualdataweb.org/nflOntology/Match/256> a nfl:Match;
+  nfl:hometeam "Seattle Seahawks";
+  nfl:visitingteam "San Francisco 49ers";
+  nfl:score "47";
+  nfl:attendance "69162";
+  nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Seattle>;
+  nfl:hasMatchDay <http://visualdataweb.org/nflOntology/Day/2019-12-29> .
+
+<http://visualdataweb.org/nflOntology/Location/Seattle> a nfl:Location;
+  nfl:city "Seattle" .

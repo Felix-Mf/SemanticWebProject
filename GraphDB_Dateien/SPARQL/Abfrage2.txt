@@ -1,0 +1,9 @@
+PREFIX nfl: <http://visualdataweb.org/nflOntology/>
+
+select * where { 
+    ?match a nfl:Match .
+    ?match nfl:hasMatchLocation <http://visualdataweb.org/nflOntology/Location/Cleveland> .
+    ?weather nfl:hasWeatherLocation <http://visualdataweb.org/nflOntology/Location/Cleveland> .
+    ?weather nfl:hasWeatherDay ?hasDate .
+    ?match nfl:hasMatchDay ?hasDate .    
+}

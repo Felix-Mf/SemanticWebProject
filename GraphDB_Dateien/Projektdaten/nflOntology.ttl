@@ -1,0 +1,125 @@
+#################################################################
+###  Generated with the experimental alpha version of the TTL exporter of WebVOWL (version 1.1.7)  http://visualdataweb.de/webvowl/   ###
+#################################################################
+
+@prefix : 		<http://visualdataweb.org/nflOntology/> .
+@prefix rdf: 		<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: 		<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: 		<http://www.w3.org/2002/07/owl#> .
+@prefix xsd: 		<http://www.w3.org/2001/XMLSchema#> .
+@prefix dc: 		<http://purl.org/dc/elements/1.1/> .
+@prefix xml: 		<http://www.w3.org/XML/1998/namespace> .
+@prefix wot: 		<http://xmlns.com/wot/0.1/> .
+@prefix vs: 		<http://www.w3.org/2003/06/sw-vocab-status/ns#> .
+@prefix foaf: 		<http://xmlns.com/foaf/0.1/> .
+@prefix nfl: 		<http://visualdataweb.org/nflOntology/> .
+@base 			<http://visualdataweb.org/nflOntology/> .
+
+<http://visualdataweb.org/nflOntology/> rdf:type owl:Ontology ;
+                                        dc:title "NFL Ontology"@en; 
+                                        dc:description "NFL Ontology for Semantic Web"@en; 
+                                        owl:versionInfo "1.0"@en . 
+#################################################################
+
+###  Property Definitions (Number of Property) 14 ###
+#  --------------------------- Property 0------------------------- 
+:hasMatchDay rdf:type owl:ObjectProperty ;
+			 rdfs:label "hasMatchDay"@IRI-based; 
+             rdfs:label "hasMatchDay"@en; 
+             rdfs:domain :Match;
+             rdfs:range :Day . 
+#  --------------------------- Property 1------------------------- 
+:humidity rdf:type owl:DatatypeProperty ;
+          rdfs:label "humidity"@IRI-based; 
+          rdfs:label "humidity"@en; 
+          rdfs:domain :Weather;
+          rdfs:range xsd:float . 
+#  --------------------------- Property 2------------------------- 
+:temperature rdf:type owl:DatatypeProperty ;
+             rdfs:label "temperature"@IRI-based; 
+             rdfs:label "temperature"@en; 
+             rdfs:domain :Weather;
+             rdfs:range xsd:float . 
+#  --------------------------- Property 3------------------------- 
+:visitingteam rdf:type owl:DatatypeProperty ;
+              rdfs:label "visitingteam"@IRI-based; 
+              rdfs:label "visitingteam"@en; 
+              rdfs:domain :Match;
+              rdfs:range xsd:string . 
+#  --------------------------- Property 4------------------------- 
+:windspeed rdf:type owl:DatatypeProperty ;
+           rdfs:label "windspeed"@IRI-based; 
+           rdfs:label "windspeed"@en; 
+           rdfs:domain :Weather;
+           rdfs:range xsd:float . 
+#  --------------------------- Property 5------------------------- 
+:precipitation rdf:type owl:DatatypeProperty ;
+               rdfs:label "precipitation"@IRI-based; 
+               rdfs:label "precipitation"@en; 
+               rdfs:domain :Weather;
+               rdfs:range xsd:float . 
+#  --------------------------- Property 6------------------------- 
+:date rdf:type owl:DatatypeProperty ;
+      rdfs:label "date"@IRI-based; 
+      rdfs:label "date"@en; 
+      rdfs:domain :Day;
+      rdfs:range xsd:string . 
+#  --------------------------- Property 7------------------------- 
+:city rdf:type owl:DatatypeProperty ;
+      rdfs:label "city"@IRI-based; 
+      rdfs:label "city"@en; 
+      rdfs:domain :Location;
+      rdfs:range xsd:string . 
+#  --------------------------- Property 8------------------------- 
+:hasMatchLocation rdf:type owl:ObjectProperty ;
+				  rdfs:label "hasMatchLocation"@IRI-based; 
+                  rdfs:label "hasMatchLocation"@en; 
+                  rdfs:domain :Match;
+                  rdfs:range :Location . 
+#  --------------------------- Property 9------------------------- 
+:hometeam rdf:type owl:DatatypeProperty ;
+          rdfs:label "hometeam"@IRI-based; 
+          rdfs:label "hometeam"@en; 
+          rdfs:domain :Match;
+          rdfs:range xsd:string . 
+#  --------------------------- Property 10------------------------- 
+:score rdf:type owl:DatatypeProperty ;
+       rdfs:label "score"@IRI-based; 
+       rdfs:label "score"@en; 
+       rdfs:domain :Match;
+       rdfs:range xsd:integer . 
+#  --------------------------- Property 11------------------------- 
+:attendance rdf:type owl:DatatypeProperty ;
+            rdfs:label "attendance"@IRI-based; 
+            rdfs:label "attendance"@en; 
+            rdfs:domain :Match;
+            rdfs:range xsd:integer . 
+#  --------------------------- Property 12------------------------- 
+:hasWeatherLocation rdf:type owl:ObjectProperty ;
+					rdfs:label "hasWeatherLocation"@IRI-based; 
+                    rdfs:label "hasWeatherLocation"@en; 
+                    rdfs:domain :Weather;
+                    rdfs:range :Location . 
+#  --------------------------- Property 13------------------------- 
+:hasWeatherDay rdf:type owl:ObjectProperty ;
+			   rdfs:label "hasWeatherDay"@IRI-based; 
+               rdfs:label "hasWeatherDay"@en; 
+               rdfs:domain :Weather;
+               rdfs:range :Day . 
+###  Class Definitions (Number of Classes) 4 ###
+#  --------------------------- Class  0------------------------- 
+:Day rdf:type owl:Class; 
+     rdfs:label "Day"@IRI-based; 
+     rdfs:label "Day"@en . 
+#  --------------------------- Class  1------------------------- 
+:Match rdf:type owl:Class; 
+       rdfs:label "Match"@IRI-based; 
+       rdfs:label "Match"@en . 
+#  --------------------------- Class  2------------------------- 
+:Weather rdf:type owl:Class; 
+         rdfs:label "Weather"@IRI-based; 
+         rdfs:label "Weather"@en . 
+#  --------------------------- Class  3------------------------- 
+:Location rdf:type owl:Class; 
+          rdfs:label "Location"@IRI-based; 
+          rdfs:label "Location"@en . 

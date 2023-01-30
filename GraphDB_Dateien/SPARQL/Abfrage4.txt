@@ -1,0 +1,19 @@
+PREFIX nfl: <http://visualdataweb.org/nflOntology/>
+
+select ?temperature ?precipitation ?humidity ?windspeed ?city ?date ?attendance ?score ?hometeam ?visitingteam where { 
+    ?match a nfl:Match .
+    ?match nfl:hasMatchLocation ?hasMatchLocation .
+    ?weather nfl:hasWeatherLocation ?hasMatchLocation .
+    ?weather nfl:temperature ?temperature .
+    ?weather nfl:precipitation ?precipitation .
+    ?weather nfl:humidity ?humidity .
+    ?weather nfl:windspeed ?windspeed .
+    ?weather nfl:hasWeatherDay ?hasDate .
+    ?match nfl:hasMatchDay ?hasDate .
+    ?hasDate nfl:date ?date .
+    ?hasMatchLocation nfl:city ?city .
+    ?match nfl:attendance ?attendance .
+    ?match nfl:score ?score .
+    ?match nfl:hometeam ?hometeam .
+    ?match nfl:visitingteam ?visitingteam .
+}
